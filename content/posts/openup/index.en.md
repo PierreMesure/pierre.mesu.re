@@ -12,7 +12,7 @@ categories:
 layout: single
 ---
 
-In Sweden, public procurement was estimated to be worth a staggering **683 billion crowns** in 2017   ([statistics from Konkurrensverket](http://www.konkurrensverket.se/globalassets/publikationer/rapporter/rapport_2018-9_statistikrapport_2018_webb.pdf)). Over 18000 tenders are launched each year by public institutions.
+In Sweden, public procurement was estimated to be worth a staggering **683 billion crowns** in 2017   ([statistics from Konkurrensverket](https://www.konkurrensverket.se/globalassets/publikationer/rapporter/rapport_2018-9_statistikrapport_2018_webb.pdf)). Over 18000 tenders are launched each year by public institutions.
 
 ![Bugs Bunny counting dollar bills](bugsbunny.gif)
 
@@ -65,7 +65,7 @@ Many countries and municipalities have also started publishing open data for oth
 
 The most famous case is Ukraine, where the platform **ProZorro** was created by the NGO Transparency International to monitor, streamline and open procurement, with [great success](https://www.wired.com/story/ukraine-revolution-government-procurement/).
 
-![Screenshot of Prozorro's BI visualisations](prozorro-thumbnail.png)
+![Screenshot of Prozorro's BI visualisations](prozorro-thumbnail.png) *ProZorro has a powerful Business Intelligence module that activists can use to monitor the process, but also gives the government insight into its procurement (bi.prozorro.org)*
 
 Maybe closer to Sweden, countries like [Canada](https://jaimieboyd.medium.com/canadas-open-by-default-procurement-pilot-an-experiment-in-agility-e10c9acd5806), the [UK](https://gds.blog.gov.uk/2015/11/19/improving-and-opening-up-procurement-and-contract-data/) and [France](https://www.ogpstories.org/open-data-laws-in-france-increase-competition-for-public-contracts/), have taken on the task of publishing as much data as possible since the beginning of the 2010s.
 
@@ -93,7 +93,7 @@ A quick review of the local administrations found that only 3 municipalities hav
 
 At this pace, one might expect SKL to catch up in 2050 and all the municipalities to release the data by 2070. This is not satisfactory!
 
-![Quote by Greta Thunberg: We have not come to beg world leaders to care. We have come to let them know change is coming.](greta.webp)
+![Quote by Greta Thunberg: We have not come to beg world leaders to care. We have come to let them know change is coming.](greta.webp) *Greta's struggle is perhaps 100x more important, but she is inspiring when trying to act and break the status quo that often exists in the public sector*
 
 ## Our project
 
@@ -111,3 +111,9 @@ Sounds exciting? Well what are you waiting for? Our goal is to get something sta
 
 If you are a public institution, a private company or a journalist and you are interested in taking part in this project in one way or another, we are setting up a working group and are really interested to hear about your needs!
 Contact us by [email](pierre@mesu.re) or directly on our [Matrix.org chat](https://app.element.io/#/room/#civictechsweden:matrix.org).
+
+---
+
+**UPDATE**: We received funding from Vinnova to run this project with Open Knowledge Sweden, DIGG and partners like FGJ and Transparency International Ukraine. The project is now called OpenUp! and has [its own website](https://openup.okfn.se).
+
+**UPDATE 2025**: Unfortunately, our project has not led to the major changes we hoped for. I (Pierre) am still fighting in every possible way for open procurement data and you are more than welcome to contact me if you want to talk or collaborate on it. 🙂
