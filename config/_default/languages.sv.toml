@@ -1,0 +1,24 @@
+languageCode = "sv"
+languageName = "svenska"
+languageDirection = "ltr"
+weight = 2
+
+title = "Pierre Mesure"
+copyright = "CC-BY 4.0 Pierre Mesure"
+
+[params]
+dateFormat = "2 January 2006"
+description = "Pierre Mesure"
+
+[params.author]
+name = "Pierre Mesure"
+image = "img/me.webp"
+headline = "Digital aktivist som försöker att förbättra demokrati <br/> med öppenhet, deltagande och innovation"
+bio = "A little bit about you"
+links = [
+  { email = "mailto:pierre@mesu.re" },
+  { linkedin = "https://linkedin.com/in/pierremesure" },
+  { github = "https://github.com/pierremesure" },
+  { huggingface = "https://huggingface.com/pierremesure" },
+  { medium = "https://medium.com/pierremesure" },
+]

@@ -1,0 +1,60 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+#
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+  name = "About me"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 30
+
+[[main]]
+  identifier = "search"
+  weight = 99
+  [main.params]
+    action = "search"
+
+[[main]]
+  identifier = "locale"
+  weight = 100
+  [main.params]
+    action = "locale"
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+[[footer]]
+  name = "CC-BY 4.0 Pierre Mesure"
+  url = "https://creativecommons.org/licenses/by/4.0/deed.en"
+  weight = 30
+  [footer.params]
+    icon = "creative-commons"
+    showName = true
+    target = "_blank"
+
+[[footer]]
+  name = "Source code"
+  url = "https://github.com/PierreMesure/pierre.mesu.re"
+  weight = 40
+  [footer.params]
+    icon = "github"
+    showName = true
+    target = "_blank"
