@@ -43,7 +43,7 @@ I början av september fick jag ett e-postmeddelande från Ulf Kristersson, dåv
 
 Så jag bestämde mig för att undersöka saken. Jag började med att utforska webbplatsen där videomeddelandet var inbäddat. Jag hittade företaget bakom reklamkampanjen och den tekniska metoden som användes för att foga samman videosegment och skapa en personlig illusion när det mesta av innehållet i själva verket var identiskt för alla. Jag lyckades också algoritmiskt återskapa flera hundra tusen unika länkar som motsvarade lika många personliga meddelanden som skickats till andra människor: "Hej Annika", "Hej Waldemar", "Hej Anna". Det verkade som om Ulf Kristersson hade tillbringat en halv dag med att spela in över 2000 *hälsningar*, och man kunde till och med se hur ljuset från fönstret förändrades mellan klippen.
 
-![Mosaik av skärmdumpar från liknande videor där Ulf säger hej till olika namn](thumbnail.webp)
+![Mosaik av skärmdumpar från liknande videor där Ulf säger hej till olika namn](mozaic.webp)
 
 När jag pratade om det med vänner insåg jag att några av dem hade fått andra personliga varianter av videon. Alla reagerade likadant: obehagligt, och är det här ens lagligt?
 
@@ -56,6 +56,8 @@ Men jag visste också att många människor fick liknande videoannonser (utifrå
 ![Skärmdump av hejulf.se](hejulf.se.webp)
 
 IMY accepterar inte gruppklagomål så jag skapade en enkel webbplats där vem som helst kunde skicka sitt eget klagomål med några få klick (den låg tidigare på hejulf.se men har nu flyttats till [min domän](https://hejulf.mesu.re)). Jag skrev också ett [blogginlägg på webperf.se](https://webperf.se/articles/hej-ulf/) och jag lade upp allt på Twitter och LinkedIn med en rolig video. Jag väntade till efter valnatten både för att jag inte var helt klar innan och för att jag inte var säker på mottagandet under kampanjens sista dagar.
+
+{{< video src="https://github.com/PierreMesure/hejulf.se/raw/refs/heads/main/public/hejulf.mp4" type="video/mp4" preload="auto" >}}
 
 Det spred sig snabbare än jag anat och jag fick snabbt hundratals meddelanden från människor som också hade fått meddelandet. Omkring 150-250 lyckades skicka ett klagomål trots vissa tekniska problem på min webbplats. Jag fick också en hel del hatmeddelanden på Twitter från politiska anhängare på högerkanten.
 

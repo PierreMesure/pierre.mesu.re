@@ -22,10 +22,10 @@ categories:
 {{< icon "pencil" >}} Complaint to IMY
 {{< /button >}}
 {{< button href="https://github.com/PierreMesure/hejulf.se" target="_blank" >}}
-{{< icon "github" >}} Website (source)
+{{< icon "github" >}} Source code (website)
 {{< /button >}}
 {{< button href="https://github.com/PierreMesure/hej-ulf" target="_blank" >}}
-{{< icon "github" >}} Scraper (source)
+{{< icon "github" >}} Source code (scraper)
 {{< /button >}}
 
 ## Hej Pierre
@@ -42,7 +42,7 @@ At the beginning of September, I received an e-mail from Ulf Kristersson, then p
 
 So I decided to investigate. I started by exploring the website on which the video message was embedded. I discovered the company behind the ad campaign, the technical method used to stitch video segments together, creating a personalised illusion when most content was identical for everyone. I also managed to algorithmically recreate several hundreds of thousands of unique links corresponding to as many personalised messages that were sent to other people: "Hej Annika", "Hej Waldemar", "Hej Anna". It seemed that Ulf Kristersson had spent half a day recording over 2000 *hälsningar*, and you could even see how the light from the window changed between the snippets.
 
-![Mozaic of screenshots from similar videos where Ulf is saying hey to various names](thumbnail.webp)
+![Mozaic of screenshots from similar videos where Ulf is saying hey to various names](mozaic.webp)
 
 When I talked about it with friends, I realised some of them had received other personalised variations of the video. All had the same reaction: spooky, and is this even legal?
 
@@ -55,6 +55,8 @@ But I also knew that many people got similar video ads (from my investigation, I
 ![Screenshot of hejulf.se](hejulf.se.webp)
 
 IMY doesn't accept group complaints so I created a simple website where anyone could send their own complaint with a few clicks (it used to be at hejulf.se but it's now moved to [my domain](https://hejulf.mesu.re)). I also wrote a [blog post on webperf.se](https://webperf.se/articles/hej-ulf/) and I posted everything on Twitter and LinkedIn with a funny video. I waited until after the election night both because I wasn't completely ready before and because I wasn't sure of the reception in the final days of the campaign.
+
+{{< video src="https://github.com/PierreMesure/hejulf.se/raw/refs/heads/main/public/hejulf.mp4" type="video/mp4" preload="auto" >}}
 
 It spread quicker than I imagined and I rapidly got hundreds of messages from people who had also received the message. About 150-250 managed to send a complaint despite some technical issues on my website. I also received a lot of hate messages on Twitter from political supporters on the right.
 
