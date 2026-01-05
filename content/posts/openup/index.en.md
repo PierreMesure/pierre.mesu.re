@@ -13,6 +13,7 @@ layout: single
 ---
 
 In Sweden, public procurement was estimated to be worth a staggering **683 billion crowns** in 2017[^fn:1]. Over 18000 tenders are launched each year by public institutions.
+{.dropcap}
 
 ![Bugs Bunny counting dollar bills](bugsbunny.gif)
 
@@ -117,6 +118,8 @@ Contact us by [email](pierre@mesu.re) or directly on our [Matrix.org chat](https
 **UPDATE**: We received funding from Vinnova to run this project with Open Knowledge Sweden, DIGG and partners like FGJ and Transparency International Ukraine. The project is now called OpenUp! and has [its own website](https://openup.okfn.se).
 
 **UPDATE 2025**: Unfortunately, our project has not led to the major changes we hoped for. I (Pierre) am still fighting in every possible way for open procurement data and you are more than welcome to contact me if you want to talk or collaborate on it. 🙂
+
+## References
 
 [^fn:1]: [Statistics from Konkurrensverket's 2018 report on public procurement (konkurrensverket.se)](https://www.konkurrensverket.se/globalassets/publikationer/rapporter/rapport_2018-9_statistikrapport_2018_webb.pdf)
 [^fn:2]: [DIGG on compulsory e-invoice (Archived, digg.se)](https://web.archive.org/web/20200103195603/https://www.digg.se/nationella-digitala-tjanster/e-handel-och-e-faktura/obligatorisk-e-faktura-till-offentlig-sektor)

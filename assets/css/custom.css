@@ -1,0 +1,8 @@
+.dropcap:first-letter {
+  color: rgba(var(--color-primary-500),var(--tw-text-opacity));
+  float: left;
+  font-family: serif;
+  font-size: 64px;
+  line-height: 1px;
+  padding-right: 4px;
+}

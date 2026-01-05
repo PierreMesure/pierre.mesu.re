@@ -12,6 +12,7 @@ layout: single
 ---
 
 I Sverige spenderade den offentliga sektorn 683 miljarder kronor i 2017 med bara offentlig upphandling[^fn:1]. Över 18000 upphandlingar startas varje år av offentliga institutioner.
+{.dropcap}
 
 ![Bugs Bunny counting dollar bills](bugsbunny.gif)
 
@@ -116,6 +117,8 @@ Kontakta oss på [e-post](mailto:pierre@mesu.re) eller direkt på vår [Matrix.o
 **UPPDATERING**: Vi fick finansiering från Vinnova för att driva detta projekt med Open Knowledge Sweden, DIGG och partners som FGJ och Transparency International Ukraine. Projektet heter nu OpenUp! och har [sin egen webbplats](https://openup.okfn.se).
 
 **UPPDATERING 2025**: Tyvärr har vårt projekt inte lett till de stora förändringarna vi hoppades för. Jag (Pierre) kämpar fortfarande på alla möjliga sätt för öppna upphandlingsdata och du får gärna kontakta mig om du vill prata eller samarbeta om det. 🙂
+
+## Fotnoter
 
 [^fn:1]: [Statistikrapport: Offentlig upphandling 2018 (konkurrensverket.se)](https://www.konkurrensverket.se/globalassets/publikationer/rapporter/rapport_2018-9_statistikrapport_2018_webb.pdf)
 [^fn:2]: [DIGG om obligatorisk e-faktura (Arkiverad, digg.se)](https://web.archive.org/web/20200103195603/https://www.digg.se/nationella-digitala-tjanster/e-handel-och-e-faktura/obligatorisk-e-faktura-till-offentlig-sektor)
