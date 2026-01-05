@@ -11,7 +11,7 @@ categories:
 layout: single
 ---
 
-I Sverige spenderade den offentliga sektorn 683 miljarder kronor i 2017 med bara offentlig upphandling ([statistik från Konkurrensverket](https://www.konkurrensverket.se/globalassets/publikationer/rapporter/rapport_2018-9_statistikrapport_2018_webb.pdf)). Över 18000 upphandlingar startas varje år av offentliga institutioner.
+I Sverige spenderade den offentliga sektorn 683 miljarder kronor i 2017 med bara offentlig upphandling[^fn:1]. Över 18000 upphandlingar startas varje år av offentliga institutioner.
 
 ![Bugs Bunny counting dollar bills](bugsbunny.gif)
 
@@ -25,7 +25,7 @@ I denna artikel kommer vi att titta på offentlig upphandling i Sverige, lista v
 
 ## Data överallt!
 
-![The procurement lifecycle, visualisation from the Swedish procurement agency](upphandlingskedjan.webp) *Bild från Upphandlingsmyndigheten*
+![The procurement lifecycle, visualisation from the Swedish procurement agency](upphandlingskedjan.webp "Bild från Upphandlingsmyndigheten")
 
 Vi startar med något uppenbart: **offentlig upphandling är en data-intensiv process**. Från annonser till signerade avtal och fakturor, hela kedjan dokumenteras försiktigt, oftast digitalt.
 
@@ -38,7 +38,7 @@ Nästan all data är PSI (public sector information) och kan begäras ut med off
 
 ## Situationen i 🇸🇪 idag
 
-I Sverige har man kontinuerligt tryckt för att digitalisera hela processen. Senast blev det [obligatoriskt för institutioner att acceptera e-fakturor](https://web.archive.org/web/20200103195603/https://www.digg.se/nationella-digitala-tjanster/e-handel-och-e-faktura/obligatorisk-e-faktura-till-offentlig-sektor) (med europeiska standard [PEPPOL BIS Billing 3](https://sfti.se/sfti/standarder/peppolbisehandel/peppolbisbilling3.49021.html)). Förutom några undantag är det digitala normen på hela kedjan, och **Sverige är kanske ett av de mest avancerade länderna i just det här**.
+I Sverige har man kontinuerligt tryckt för att digitalisera hela processen. Senast blev det obligatoriskt för institutioner att acceptera e-fakturor[^fn:2] (med europeiska standard PEPPOL BIS Billing 3[^fn:3]). Förutom några undantag är det digitala normen på hela kedjan, och **Sverige är kanske ett av de mest avancerade länderna i just det här**.
 
 Man hoppas då att dessa data används så mycket som möjligt av de ovannämnda aktörerna och att de hjälper att matcha efterfrågan och erbjudande på ett optimalt sätt. Jo, det tänkte vi också i början men vi förstod snabbt hur fel vi hade, och det är så vårt projekt föddes.
 
@@ -54,7 +54,7 @@ Allt detta för att säga att, även om Sverige har kanske en av de effektivaste
 
 Spoiler: ja, det gör man.
 
-I utvecklade länder brukar man veta att en gratis offentlig annonsdatabas är en viktig del av ett rättvist och effektivt upphandlingsekosystem. I norden har dessa tjänster söta namn som [udbud.dk](https://udbud.dk) i Danmark, [doffin.no](https://doffin.no) i Norge, [hilma.fi](https://www.hankintailmoitukset.fi/sv/) i Finland. Enligt [forskning av EU-projekt Digiwhist och Open Knowledge Tyskland](https://web.archive.org/web/20220331045834/https://opentender.eu/blog/2017-03-recommendations-for-implementation/) från 2017 hade nästan alla europeiska länder en sådan (31 av 34). En snabb uppdatering 2019 visar oss att Sverige är faktiskt ensam nu när Österrike och Luxemburg har skapat sina egna annonsdatabaser. Sverige är alltså ensam i EU som inte har en offentlig annonsdatabas. Det bör uppmärksammas mer.
+I utvecklade länder brukar man veta att en gratis offentlig annonsdatabas är en viktig del av ett rättvist och effektivt upphandlingsekosystem. I norden har dessa tjänster söta namn som [udbud.dk](https://udbud.dk) i Danmark, [doffin.no](https://doffin.no) i Norge, [hilma.fi](https://www.hankintailmoitukset.fi/sv/) i Finland. Enligt forskning av EU-projekt Digiwhist och Open Knowledge Tyskland[^fn:4] från 2017 hade nästan alla europeiska länder en sådan (31 av 34). En snabb uppdatering 2019 visar oss att Sverige är faktiskt ensam nu när Österrike och Luxemburg har skapat sina egna annonsdatabaser. Sverige är alltså ensam i EU som inte har en offentlig annonsdatabas. Det bör uppmärksammas mer.
 
 Det är bara logiskt. Ju mer man begränsar tillgång till information om anbud, desto mindre konkurrens man får. En betalvägg är kanske det effektivaste sättet att avskräcka företag som vill möta offentliga behov.
 
@@ -62,11 +62,11 @@ Det är bara logiskt. Ju mer man begränsar tillgång till information om anbud,
 
 Många länder och kommuner har också börjat att publicera öppna data för andra steg i processen, för att öka transparens men också effektivitet.
 
-Det mest berömda exemplet är Ukraina, där plattformen **ProZorro** skapades av Transparency International för att bevaka och effektivisera offentlig upphandling. Det blev en [stor succé](https://www.wired.com/story/ukraine-revolution-government-procurement/).
+Det mest berömda exemplet är Ukraina, där plattformen **ProZorro** skapades av Transparency International för att bevaka och effektivisera offentlig upphandling. Det blev en stor succé[^fn:5].
 
-![Screenshot of Prozorro's BI visualisations](prozorro-thumbnail.png) *ProZorro har en kraftig Business Intelligence modul som aktivister kan använda för att bevaka processen, men också ge insyn till regeringen om sin upphandling (bi.prozorro.org)*
+![Screenshot of Prozorro's BI visualisations](prozorro-thumbnail.png "ProZorro har en kraftig Business Intelligence modul som aktivister kan använda för att bevaka processen, men också ge insyn till regeringen om sin upphandling (bi.prozorro.org)")
 
-Kanske närmare Sverige finns det [Kanada](https://jaimieboyd.medium.com/canadas-open-by-default-procurement-pilot-an-experiment-in-agility-e10c9acd5806), [Storbritannien](https://gds.blog.gov.uk/2015/11/19/improving-and-opening-up-procurement-and-contract-data/) och [Frankrike](https://www.ogpstories.org/open-data-laws-in-france-increase-competition-for-public-contracts/), som började publicera så mycket data som möjligt tidigt på 2010-talet.
+Kanske närmare Sverige finns det Kanada[^fn:6], Storbritannien[^fn:7] och Frankrike[^fn:8], som började publicera så mycket data som möjligt tidigt på 2010-talet.
 
 Finland är bästa exemplet i norden och publicerar statistik för alla sina myndigheter som öppna data och på en interaktiv plattform, [granskaupphandlingar.fi](https://granskaupphandlingar.fi). Tidigare i år bestämde de också att lägga till information från kommuner och regioner.
 
@@ -74,7 +74,7 @@ Finland är bästa exemplet i norden och publicerar statistik för alla sina myn
 
 Varför ligger Sverige så mycket efter?
 
-Svårt att säga men situationen lär inte förbättras. Nyligen gav regeringen uppdraget till Upphandlingsmyndigheten att samla statistikdata om upphandlingsprocessen och inte ens en gång nämnde man att det vore möjligt att öppna rådata först, även när deras rapport [hyllade Finland som ett exempel att följa](https://www.upphandlingsmyndigheten.se/kunskapsbank-for-offentliga-affarer/publikationer/slutrapport-vissa-inkopsvarden/)...
+Svårt att säga men situationen lär inte förbättras. Nyligen gav regeringen uppdraget till Upphandlingsmyndigheten att samla statistikdata om upphandlingsprocessen och inte ens en gång nämnde man att det vore möjligt att öppna rådata först, även när deras rapport hyllade Finland som ett exempel att följa[^fn:9]...
 
 När vi frågade en av myndighetens chefer om det i somras fick vi för svar:
 
@@ -88,11 +88,11 @@ I ett land som ofta är övertygat av sitt överlägsenhet är idéen att Sverig
 
 Det förklarar varför vi fick negativa svar när vi frågade Upphandlingsmyndigheten, Konkurrensverket, DIGG, SKL och dess inköpsbolag Kommentus om de hade en kontaktperson som jobbade på att öppna inköpsdata…
 
-När vi kollade på vilka lokala administrationer hade börjat att publicera sina fakturor hittade vi bara tre kommuner ([Göteborg](https://catalog.goteborg.se/catalog/6/datasets/75), [Örebro](https://www.orebro.se/fordjupning/fordjupning/fakta-statistik-priser--utmarkelser/information-tillganglig-for-ateranvandning/inkomna-leverantorsfakturor-reskontra--kontoklasser.html) och [Lidingö](https://lidingo.dataplattform.se/#/data/leverantorsfakturor)). Varje gång tack vare en pionjär som såg tidig potentialen av att göra det, såsom Kim Lantto eller Björn Hagström som redan skrev om det på sin blogg 2015. Dessa initiativ måste hyllas men de visar knappt en positiv utveckling och kan inte dra nytta av en storskalig publicering.
+När vi kollade på vilka lokala administrationer hade börjat att publicera sina fakturor hittade vi bara tre kommuner ([Göteborg](https://catalog.goteborg.se/catalog/6/datasets/75), [Örebro](https://www.orebro.se/fordjupning/fordjupning/fakta-statistik-priser--utmarkelser/information-tillganglig-for-ateranvandning/inkomna-leverantorsfakturor-reskontra--kontoklasser.html) och [Lidingö](https://lidingo.dataplattform.se/#/data/leverantorsfakturor)). Varje gång tack vare en pionjär som såg tidig potentialen av att göra det, såsom Kim Lantto eller Björn Hagström som redan skrev om det på sin blogg 2015[^fn:10]. Dessa initiativ måste hyllas men de visar knappt en positiv utveckling och kan inte dra nytta av en storskalig publicering.
 
 Om vi fortsätter på samma takt kan vi anta att SKR kommer börja driva frågan i 2050 och alla kommuner publicera vid 2070. Det här är helt oacceptabelt.
 
-![Quote by Greta Thunberg: We have not come to beg world leaders to care. We have come to let them know change is coming.](greta.webp) *Greta's kamp är kanske 100x viktigare men hon är inspirerande när man försöker att agera och att bryta den status quo som ofta finns i den offentliga sektorn*
+![Quote by Greta Thunberg: We have not come to beg world leaders to care. We have come to let them know change is coming.](greta.webp "Gretas kamp är kanske 100x viktigare men hon är inspirerande när man försöker att agera och att bryta den status quo som ofta finns i den offentliga sektorn")
 
 ## Vårt projekt!
 
@@ -116,3 +116,14 @@ Kontakta oss på [e-post](mailto:pierre@mesu.re) eller direkt på vår [Matrix.o
 **UPPDATERING**: Vi fick finansiering från Vinnova för att driva detta projekt med Open Knowledge Sweden, DIGG och partners som FGJ och Transparency International Ukraine. Projektet heter nu OpenUp! och har [sin egen webbplats](https://openup.okfn.se).
 
 **UPPDATERING 2025**: Tyvärr har vårt projekt inte lett till de stora förändringarna vi hoppades för. Jag (Pierre) kämpar fortfarande på alla möjliga sätt för öppna upphandlingsdata och du får gärna kontakta mig om du vill prata eller samarbeta om det. 🙂
+
+[^fn:1]: [Statistikrapport: Offentlig upphandling 2018 (konkurrensverket.se)](https://www.konkurrensverket.se/globalassets/publikationer/rapporter/rapport_2018-9_statistikrapport_2018_webb.pdf)
+[^fn:2]: [DIGG om obligatorisk e-faktura (Arkiverad, digg.se)](https://web.archive.org/web/20200103195603/https://www.digg.se/nationella-digitala-tjanster/e-handel-och-e-faktura/obligatorisk-e-faktura-till-offentlig-sektor)
+[^fn:3]: [SFTI om PEPPOL (sfti.se)](https://sfti.se/sfti/standarder/peppolbisehandel/peppolbisbilling3.49021.html)
+[^fn:4]: [Recommendations for the Implementation of Open Public Procurement Data (Arkiverad, opentender.eu)](https://web.archive.org/web/20220331045834/https://opentender.eu/blog/2017-03-recommendations-for-implementation/)
+[^fn:5]: [From the fires of revolution, Ukraine is reinventing government (wired.com)](https://www.wired.com/story/ukraine-revolution-government-procurement/)
+[^fn:6]: [Jaimie Boyd on transparency in Canadian procurement (medium.com)](https://jaimieboyd.medium.com/canadas-open-by-default-procurement-pilot-an-experiment-in-agility-e10c9acd5806)
+[^fn:7]: [Improving and opening up procurement and contract data (gds.blog.gov.uk)](https://gds.blog.gov.uk/2015/11/19/improving-and-opening-up-procurement-and-contract-data/)
+[^fn:8]: [Open Data Laws in France Increase Competition for Public Contracts (ogpstories.org)](https://www.ogpstories.org/open-data-laws-in-france-increase-competition-for-public-contracts/)
+[^fn:9]: [Förberedande studie om vissa inköpsvärden (upphandlingsmyndigheten.se)](https://www.upphandlingsmyndigheten.se/kunskapsbank-for-offentliga-affarer/publikationer/slutrapport-vissa-inkopsvarden/)
+[^fn:10]: [Från pappersarkiv till öppna data (Arkiverad, blogg.orebro.se)](https://web.archive.org/web/20231206053715/https://blogg.orebro.se/enklarevardag/2015/09/10/fran-pappersarkiv-till-oppna-data/)
