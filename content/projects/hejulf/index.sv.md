@@ -11,24 +11,23 @@ tags:
 categories:
   - GDPR
 layout: single
-links:
-- icon: newspaper
-  icon_pack: fas
-  name: Originalartikel (på webperf.se)
-  url: https://webperf.se/articles/hej-ulf/
-- icon: link
-  icon_pack: fas
-  name: hejulf.se
-  url: https://hejulf.mesu.re
-- icon: github
-  icon_pack: fab
-  name: webbplats
-  url: https://github.com/PierreMesure/hejulf.se
-- icon: github
-  icon_pack: fab
-  name: scraper
-  url: https://github.com/PierreMesure/hej-ulf
 ---
+
+{{< button href="https://webperf.se/articles/hej-ulf/" target="_blank" >}}
+{{< icon "pencil" >}} Ursprungliga inlägg (webperf.se)
+{{< /button >}}
+{{< button href="https://hejulf.mesu.re" target="_blank" >}}
+{{< icon "link" >}} hejulf.se
+{{< /button >}}
+{{< button href="https://hejulf.mesu.re/beskrivning-klagomal.pdf" target="_blank" >}}
+{{< icon "pencil" >}} Klågomål till IMY
+{{< /button >}}
+{{< button href="https://github.com/PierreMesure/hejulf.se" target="_blank" >}}
+{{< icon "github" >}} Webbsida (källkod)
+{{< /button >}}
+{{< button href="https://github.com/PierreMesure/hej-ulf" target="_blank" >}}
+{{< icon "github" >}} Scraper (källkod)
+{{< /button >}}
 
 ## Hej Pierre
 

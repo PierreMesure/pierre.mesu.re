@@ -6,3 +6,8 @@
   line-height: 1px;
   padding-right: 4px;
 }
+
+[role="button"] {
+  margin-right: 0.2rem;
+  margin-bottom: 0.4rem;
+}
