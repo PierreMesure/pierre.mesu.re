@@ -1,9 +1,9 @@
 languageCode = "en"
-languageName = "English"
+languageName = "🇬🇧 English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Pierre Mesure"
+title = "pierre.mesu.re"
 copyright = "CC-BY 4.0 Pierre Mesure"
 
 [params]

@@ -1,9 +1,9 @@
 languageCode = "sv"
-languageName = "svenska"
+languageName = "🇸🇪 svenska"
 languageDirection = "ltr"
 weight = 2
 
-title = "Pierre Mesure"
+title = "pierre.mesu.re"
 copyright = "CC-BY 4.0 Pierre Mesure"
 
 [params]
