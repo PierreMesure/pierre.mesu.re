@@ -31,7 +31,7 @@ layout: single
 
 ## Hej Pierre
 
-2022 var ett valår i Sverige. De politiska partierna kampanjade på nationell och regional nivå och enligt en pågående trend var en större del av kampanjen nu digital.
+2022 var ett valår i Sverige. De politiska partierna kampanjade på nationell och regional nivå och kampanjanerna var alltmer digitala.
 
 ![Skärmdump av en video som visar Ulf Kristersson som säger "Hej Pierre"](hej-pierre.webp)
 
