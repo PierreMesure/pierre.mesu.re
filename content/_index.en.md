@@ -1,5 +1,5 @@
 ---
-title: "Pierre Mesure"
-description: "My personal website"
+title: "pierre.mesu.re"
+description: "Tech for democracy"
 ---
 [More about me](about)

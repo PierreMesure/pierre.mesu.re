@@ -8,6 +8,8 @@
 }
 
 [role="button"] {
+  display: inline-block;
+  white-space: nowrap;
   margin-right: 0.2rem;
   margin-bottom: 0.4rem;
 }

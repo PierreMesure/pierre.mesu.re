@@ -1,24 +1,28 @@
+disabled = false
 languageCode = "en"
-languageName = "🇬🇧 English"
-languageDirection = "ltr"
+languageName = "English"
 weight = 1
-
-title = "pierre.mesu.re"
-copyright = "CC-BY 4.0 Pierre Mesure"
+title = "Pierre Mesure | Tech for democracy"
 
 [params]
-dateFormat = "2 January 2006"
-description = "Pierre Mesure"
+  displayName = "🇬🇧 English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Tech for democracy"
+  copyright = "CC-BY 4.0 Pierre Mesure"
 
 [params.author]
-name = "Pierre Mesure"
-image = "img/me.webp"
-headline = "Digital activist working to improve democracy <br/> through openness, participation and innovation"
-bio = "Digital activist working to improve democracy <br/> through openness, participation and innovation"
-links = [
-  { email = "mailto:pierre@mesu.re" },
-  { linkedin = "https://linkedin.com/in/pierremesure" },
-  { github = "https://github.com/pierremesure" },
-  { huggingface = "https://huggingface.com/pierremesure" },
-  { medium = "https://medium.com/pierremesure" },
-]
+  name = "Pierre Mesure"
+  image = "img/me.webp"
+  headline = "Digital activist working to improve democracy through openness, participation and innovation"
+  bio = "Digital activist working to improve democracy through openness, participation and innovation"
+  links = [
+    { email = "mailto:pierre@mesu.re" },
+    { linkedin = "https://linkedin.com/in/pierremesure" },
+    { github = "https://github.com/pierremesure" },
+    { huggingface = "https://huggingface.com/pierremesure" },
+    { medium = "https://medium.com/pierremesure" },
+  ]
