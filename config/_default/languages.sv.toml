@@ -17,8 +17,8 @@ title = "Pierre Mesure | Tech for democracy"
 [params.author]
   name = "Pierre Mesure"
   image = "img/me.webp"
-  headline = "Digital aktivist som försöker att förbättra demokrati med öppenhet, deltagande och innovation"
-  bio = "Digital aktivist som försöker att förbättra demokrati med öppenhet, deltagande och innovation"
+  headline = "Digital aktivist som försöker att förbättra demokratin med öppenhet, deltagande och innovation"
+  bio = "Digital aktivist som försöker att förbättra demokratin med öppenhet, deltagande och innovation"
   links = [
     { email = "mailto:pierre@mesu.re" },
     { linkedin = "https://linkedin.com/in/pierremesure" },
