@@ -3,15 +3,10 @@ title: OpenRemiss
 subtitle: Swedish referrals as open data
 excerpt: A script to download and structure referral data from regeringen.se
 date: 2017-05-01
-author: Pierre Mesure
-draft: false
 tags:
-  - opengov
-  - open parliament
-  - transparency
-categories:
-  - Open data
-layout: single
+  - Opengov
+  - Open parliament
+  - Transparency
 ---
 
 {{< button href="https://github.com/DinRiksdag/OpenRemiss" target="_blank" >}}

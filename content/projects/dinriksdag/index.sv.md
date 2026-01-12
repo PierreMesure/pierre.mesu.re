@@ -3,13 +3,10 @@ title: Din Riksdag
 subtitle: Ett projekt för att göra den svenska lagstiftningsprocessen mer deltagande och transparent
 excerpt: En plattform för att följa lagarnas tillkomst och delta i processen
 date: 2018-05-01
-author: Pierre Mesure
-draft: false
 tags:
-  - öppet parlament
-  - medborgardeltagande
-  - transparens
-layout: single
+  - Open Parliament
+  - Citizen participation
+  - Transparency
 ---
 
 {{< button href="https://github.com/DinRiksdag/dinriksdag" target="_blank" >}}

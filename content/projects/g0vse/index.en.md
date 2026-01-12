@@ -3,14 +3,10 @@ title: g0v.se
 subtitle: regeringen.se as open data
 excerpt: A scraper to make it easier to access data and documents from regeringen.se
 date: 2024-04-15
-author: Pierre Mesure
-draft: false
 tags:
-  - legislation
-  - scraping
-categories:
   - Open data
-layout: single
+  - Opengov
+  - Scraping
 ---
 
 {{< button href="https://g0v.se" target="_blank" >}}

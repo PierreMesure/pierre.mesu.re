@@ -1,9 +1,8 @@
 ---
 title: "Almedalsdata, öppna data om världens största politiska festival"
 date: 2021-08-03
-draft: false
-author: "Pierre Mesure"
-tags: ["Open Data", "Almedalen", "Lobbying"]
+tags:
+- Open Data
 ---
 
 **DETTA INLÄGG PUBLICERADES URSPRUNGLIGEN PÅ [MEDIUM](https://medium.com/civictechsweden/almedalsdata-%C3%B6ppna-data-om-v%C3%A4rldens-st%C3%B6rsta-politiska-festival-760a46ed3b3c).**

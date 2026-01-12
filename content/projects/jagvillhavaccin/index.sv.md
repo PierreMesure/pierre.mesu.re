@@ -3,14 +3,10 @@ title: Jag vill ha vaccin!
 subtitle: En användarvänlig plattform för att hitta vaccintider oavsett var du bor i Sverige
 description: Att hitta en vaccintid var kaotiskt i Sverige. Varje region valde sin egen lösning, vilket ofta diskriminerade sårbara grupper som kämpade med att navigera otillgängliga och komplexa webbsidor. I Frankrike byggde en grupp hackare en nationell plattform på några dagar som förenklade processen avsevärt, och jag försökte att anpassa den till vår svenska kontext
 date: 2021-05-01
-author: Pierre Mesure
-draft: false
 tags:
   - COVID
   - OSINT
-categories:
-  - Öppna data
-layout: single
+  - Open Data
 ---
 
 {{< button href="https://jagvillhavaccin.mesu.re" target="_blank" >}}

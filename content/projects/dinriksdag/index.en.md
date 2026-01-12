@@ -3,13 +3,10 @@ title: Din Riksdag
 subtitle: Making the Swedish legislative process more participative and transparent
 excerpt: A platform to follow the creation of laws and participate in the process
 date: 2018-05-01
-author: Pierre Mesure
-draft: false
 tags:
   - open parliament
   - citizen participation
   - transparency
-layout: single
 ---
 
 {{< button href="https://github.com/DinRiksdag/dinriksdag" target="_blank" >}}

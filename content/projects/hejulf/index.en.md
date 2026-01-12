@@ -3,13 +3,9 @@ title: Hej Ulf!
 subtitle: A deep dive into a targeted political advertisement campaign and the first Swedish crowdsourced GDPR complaint
 excerpt: In 2022, I received a personalised video message from then prime minister candidate Ulf Kristersson during the election campaign. It led me down a rabbit hole to understand why and how Ulf did it
 date: 2022-09-30
-author: Pierre Mesure
-draft: false
 tags:
   - GDPR
   - OSINT
-categories:
-  - GDPR
 ---
 
 {{< button href="https://webperf.se/articles/hej-ulf/" target="_blank" >}}

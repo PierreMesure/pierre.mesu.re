@@ -3,14 +3,9 @@ title: Hej Ulf!
 subtitle: En djupdykning i en riktad politisk reklamkampanj och det första svenska crowdsourcade GDPR-klagomålet
 excerpt: År 2022 fick jag ett personligt videomeddelande från dåvarande statsministerkandidaten Ulf Kristersson under valrörelsen. Det ledde mig in i ett grävprojekt för att förstå varför och hur Ulf gjorde det
 date: 2022-09-30
-author: Pierre Mesure
-draft: false
 tags:
   - GDPR
   - OSINT
-categories:
-  - GDPR
-layout: single
 ---
 
 {{< button href="https://webperf.se/articles/hej-ulf/" target="_blank" >}}

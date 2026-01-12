@@ -3,15 +3,10 @@ title: OpenRemiss
 subtitle: Svenska remisser som öppna data
 excerpt: Ett skript för att ladda ner och strukturera remissdata från regeringen.se
 date: 2017-05-01
-author: Pierre Mesure
-draft: false
 tags:
-  - opengov
-  - öppet parlament
-  - transparens
-categories:
-  - Öppna data
-layout: single
+  - Opengov
+  - Open parliament
+  - Transparency
 ---
 
 {{< button href="https://github.com/DinRiksdag/OpenRemiss" target="_blank" >}}

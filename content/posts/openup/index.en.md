@@ -1,15 +1,9 @@
 ---
 title: Disrupting public procurement with open data in Sweden
-excerpt: You can read this article in Swedish here.
 date: 2019-09-03
-author: Pierre Mesure
 tags:
-  - procurement
-  - open-contracting
-categories:
-  - Open Up!
-# layout options: single, single-sidebar
-layout: single
+- "Open Contracting"
+- Open Data
 ---
 
 In Sweden, public procurement was estimated to be worth a staggering **683 billion crowns** in 2017[^fn:1]. Over 18000 tenders are launched each year by public institutions.

@@ -1,14 +1,8 @@
 ---
 title: "Vem har koll på Sveriges myndigheter?"
 date: 2024-04-22
-author: Pierre Mesure
 tags:
-  - myndigheter
-  - open-data
-  - sweden
-categories:
-  - Open Data
-layout: single
+- Open Data
 ---
 
 **DETTA INLÄGG PUBLICERADES URSPRUNGLIGEN PÅ [MEDIUM](https://medium.com/civictechsweden/vem-har-koll-på-sveriges-myndigheter-dc8ca8e9dab7).**

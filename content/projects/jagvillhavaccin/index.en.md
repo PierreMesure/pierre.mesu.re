@@ -3,14 +3,10 @@ title: Jag vill ha vaccin!
 subtitle: A user-friendly platform to find vaccination times regardless of where you live in Sweden
 description: Finding a vaccination time was chaotic in Sweden. Each region opted for its own solution, often discriminating against vulnerable groups who struggled to navigate inaccessible and complex webpages. In France, a group of hackers built a national platform in a few days that greatly simplified the process, and I set out to replicate their success.
 date: 2021-05-01
-author: Pierre Mesure
-draft: false
 tags:
   - COVID
   - OSINT
-categories:
-  - Open data
-layout: single
+  - Open Data
 ---
 
 {{< button href="https://jagvillhavaccin.mesu.re" target="_blank" >}}

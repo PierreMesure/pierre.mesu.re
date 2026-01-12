@@ -1,14 +1,8 @@
 ---
 title: "Keeping track of Swedish government agencies"
 date: 2024-04-22
-author: Pierre Mesure
 tags:
-  - agencies
-  - open-data
-  - sweden
-categories:
-  - Open Data
-layout: single
+- Open Data
 ---
 
 **THIS ARTICLE WAS ORIGINALLY RELEASED ON [MEDIUM](https://medium.com/civictechsweden/vem-har-koll-på-sveriges-myndigheter-dc8ca8e9dab7) (IN SWEDISH).**

@@ -1,5 +1,5 @@
 ---
 title: "Pierre Mesure"
-description: "Min personliga webbplats"
+description: "Teknik för demokrati"
 ---
 [Mer om mig](about)

@@ -1,14 +1,9 @@
 ---
 title: "Skapa innovation med öppna data i offentlig upphandling i Sverige"
 date: 2019-09-03
-author: Pierre Mesure
 tags:
-  - procurement
-  - open-contracting
-categories:
-  - Open Up!
-# layout options: single, single-sidebar
-layout: single
+- "Open Contracting"
+- Open Data
 ---
 
 I Sverige spenderade den offentliga sektorn 683 miljarder kronor i 2017 med bara offentlig upphandling[^fn:1]. Över 18000 upphandlingar startas varje år av offentliga institutioner.

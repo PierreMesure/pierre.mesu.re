@@ -1,9 +1,8 @@
 ---
 title: "5 ideas for Sweden’s new open data portal"
 date: 2019-09-24
-draft: false
-author: "Pierre Mesure"
-tags: ["Open Data"]
+tags:
+- Open Data
 ---
 
 **THIS ARTICLE WAS ORIGINALLY RELEASED ON [MEDIUM](https://medium.com/civictechsweden/5-ideas-for-swedens-new-open-data-portal-d47beb65ec5f).**
