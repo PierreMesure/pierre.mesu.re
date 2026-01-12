@@ -5,7 +5,7 @@
 # theme = "blowfish" # UNCOMMENT THIS LINE
 
 # baseURL is set via the HUGO_BASEURL environment variable or --baseURL flag
-# baseURL = "https://pierre.mesu.re"
+baseURL = "https://pierre.mesu.re"
 defaultContentLanguage = "en"
 
 pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles

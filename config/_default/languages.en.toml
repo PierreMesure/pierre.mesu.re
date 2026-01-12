@@ -17,6 +17,7 @@ title = "Pierre Mesure | Tech for democracy"
 [params.author]
   name = "Pierre Mesure"
   image = "img/me.webp"
+  imageQuality = 90
   headline = "Digital activist working to improve democracy through openness, participation and innovation"
   bio = "Digital activist working to improve democracy through openness, participation and innovation"
   links = [
