@@ -9,15 +9,9 @@ tags:
   - Scraping
 ---
 
-{{< button href="https://g0v.se" target="_blank" >}}
-{{< icon "link" >}} g0v.se
-{{< /button >}}
-{{< button href="https://github.com/civictechsweden/g0vse" target="_blank" >}}
-{{< icon "github" >}} Source code
-{{< /button >}}
-{{< button href="https://github.com/civictechsweden/g0vse/tree/data" target="_blank" >}}
-{{< icon "github" >}} Data
-{{< /button >}}
+{{< icon-button "g0v.se" "link" >}} g0v.se {{< /icon-button >}}
+{{< icon-button "github.com/civictechsweden/g0vse" "github" >}} Source code {{< /icon-button >}}
+{{< icon-button "github.com/civictechsweden/g0vse/tree/data" "github" >}} Data {{< /icon-button >}}
 
 ![Logo of g0v.se](g0vse.webp "The project's logo is inspired by the Swedish three crowns but they have been replaced by sunflowers to honour the Taiwanese sunflower movement that started the g0v philosophy")
 

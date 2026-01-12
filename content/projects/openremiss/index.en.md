@@ -9,9 +9,7 @@ tags:
   - Transparency
 ---
 
-{{< button href="https://github.com/DinRiksdag/OpenRemiss" target="_blank" >}}
-{{< icon "github" >}} Source code
-{{< /button >}}
+{{< icon-button "github.com/DinRiksdag/OpenRemiss" "github" >}} Source code {{< /icon-button >}}
 
 ## What is a "remiss"?
 

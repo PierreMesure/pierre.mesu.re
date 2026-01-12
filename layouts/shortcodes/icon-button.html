@@ -1,0 +1,4 @@
+{{ $href := .Get "href" | default (.Get 0) }}
+{{ $icon := .Get "icon" | default (.Get 1) }}
+{{ $target := .Get "target" | default "_blank" }}
+{{ partial "icon-button.html" (dict "href" $href "target" $target "icon" $icon "text" .Inner) }}

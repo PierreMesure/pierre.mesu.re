@@ -9,15 +9,9 @@ tags:
   - transparency
 ---
 
-{{< button href="https://github.com/DinRiksdag/dinriksdag" target="_blank" >}}
-{{< icon "github" >}} Source code (platform)
-{{< /button >}}
-{{< button href="https://github.com/DinRiksdag/decidim-module-riksdagen" target="_blank" >}}
-{{< icon "github" >}} Source code (scraping module)
-{{< /button >}}
-{{< button href="https://github.com/PierreMesure/pierre.mesu.re/tree/master/static/dinriksdag/presentations" target="_blank" >}}
-{{< icon "link" >}} Presentations
-{{< /button >}}
+{{< icon-button "github.com/DinRiksdag/dinriksdag" "github" >}} Source code (platform) {{< /icon-button >}}
+{{< icon-button "github.com/DinRiksdag/decidim-module-riksdagen" "github" >}} Source code (scraping module) {{< /icon-button >}}
+{{< icon-button "github.com/PierreMesure/pierre.mesu.re/tree/master/static/dinriksdag/presentations" "link" >}} Presentations {{< /icon-button >}}
 
 ## Learning that Swedish democracy is far from perfect
 

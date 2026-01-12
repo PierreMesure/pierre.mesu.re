@@ -9,15 +9,9 @@ tags:
   - Open Data
 ---
 
-{{< button href="https://jagvillhavaccin.mesu.re" target="_blank" >}}
-{{< icon "link" >}} jagvillhavaccin.nu
-{{< /button >}}
-{{< button href="https://github.com/civictechsweden/JagVillHaVaccin" target="_blank" >}}
-{{< icon "github" >}} Källkod (scraper)
-{{< /button >}}
-{{< button href="https://github.com/civictechsweden/JagVillHaVaccin-front" target="_blank" >}}
-{{< icon "github" >}} Källkod (webbsida)
-{{< /button >}}
+{{< icon-button "jagvillhavaccin.mesu.re" "link" >}} jagvillhavaccin.nu {{< /icon-button >}}
+{{< icon-button "github.com/civictechsweden/JagVillHaVaccin" "github" >}} Källkod (scraper) {{< /icon-button >}}
+{{< icon-button "github.com/civictechsweden/JagVillHaVaccin-front" "github" >}} Källkod (webbsida) {{< /icon-button >}}
 
 ## Att hitta en vaccintid i Sverige
 
