@@ -4,7 +4,7 @@
 
 # theme = "blowfish" # UNCOMMENT THIS LINE
 
-# baseURL is set via the HUGO_BASEURL environment variable or --baseURL flag
+# baseURL is set via the HUGO_BASEURL environment variable and --baseURL flag
 baseURL = "https://pierre.mesu.re"
 defaultContentLanguage = "en"
 

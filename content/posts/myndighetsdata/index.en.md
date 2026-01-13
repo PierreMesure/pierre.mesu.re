@@ -1,6 +1,7 @@
 ---
 title: "Keeping track of Swedish government agencies"
 date: 2024-04-22
+summary: "Creating the ultimate registry for government agencies"
 tags:
 - Open Data
 ---

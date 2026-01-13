@@ -1,6 +1,7 @@
 ---
 title: Disrupting public procurement with open data in Sweden
 date: 2019-09-03
+summary: "Sweden chose a peculiar approach to public procurement data and it's costing us billions every year."
 tags:
 - "Open Contracting"
 - Open Data

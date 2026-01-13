@@ -1,6 +1,7 @@
 ---
 title: "Almedalsdata, öppna data om världens största politiska festival"
 date: 2021-08-03
+summary: "Trender, buzzwords och lobbyings inflytande i vår demokrati. Vad hittar du i data?"
 tags:
 - Open Data
 ---

@@ -6,12 +6,8 @@ showDate: false
 showReadingTime: false
 ---
 
-{{< figure
-  src="me_portrait.jpg"
-  default="1"
-  width="300"
-  alt="Pierre Mesure standing in front of a frozen lake"
->}}
+![Pierre Mesure standing in front of a frozen lake](me_portrait.webp)
+{style="width:50%;"}
 
 Currently in charge of the **"datalabb"** at a government agency under the Swedish finance department.
 

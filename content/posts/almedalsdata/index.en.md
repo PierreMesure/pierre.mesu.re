@@ -1,6 +1,7 @@
 ---
 title: "Almedalsdata, diving into the data of the world’s biggest political festival"
 date: 2021-08-03
+summary: "Political trends, buzzwords and the impact of lobbying on our democratic debate. What will you find in the data?"
 tags:
 - Open Data
 ---

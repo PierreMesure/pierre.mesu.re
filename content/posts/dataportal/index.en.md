@@ -1,6 +1,7 @@
 ---
 title: "5 ideas for Sweden’s new open data portal"
 date: 2019-09-24
+summary: "Can a better portal save our lack of ambition with open data?"
 tags:
 - Open Data
 ---

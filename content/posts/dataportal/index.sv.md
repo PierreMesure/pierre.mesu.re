@@ -1,6 +1,7 @@
 ---
 title: "5 idéer för Sveriges nya dataportal"
 date: 2019-09-24
+summary: "Kan vi rädda Sveriges digitaliseringspolitik med en bättre webbplats?"
 tags:
 - Open Data
 ---

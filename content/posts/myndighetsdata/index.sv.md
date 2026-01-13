@@ -1,6 +1,7 @@
 ---
 title: "Vem har koll på Sveriges myndigheter?"
 date: 2024-04-22
+summary: "Ett försök att skapa ett supermyndighetsregister"
 tags:
 - Open Data
 ---

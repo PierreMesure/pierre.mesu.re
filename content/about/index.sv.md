@@ -6,12 +6,8 @@ showDate: false
 showReadingTime: false
 ---
 
-{{< figure
-  src="me_portrait.jpg"
-  default="1"
-  width="300"
-  alt="Pierre Mesure vid isen"
->}}
+![Pierre Mesure vid isen](me_portrait.webp)
+{style="width:50%;"}
 
 I nuläget är jag ansvarig för ett **"datalabb"** på en myndighet under Finansdepartementet.
 

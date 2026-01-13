@@ -1,6 +1,7 @@
 ---
 title: "Skapa innovation med öppna data i offentlig upphandling i Sverige"
 date: 2019-09-03
+summary: "Den svenska modellen för offentlig upphandling kostar oss miljarder varje år."
 tags:
 - "Open Contracting"
 - Open Data
