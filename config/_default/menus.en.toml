@@ -44,17 +44,23 @@
 [[footer]]
   name = "CC-BY 4.0 Pierre Mesure"
   url = "https://creativecommons.org/licenses/by/4.0/deed.en"
+  pre = "creative-commons"
   weight = 30
-  [footer.params]
-    icon = "creative-commons"
-    showName = true
-    target = "_blank"
 
 [[footer]]
   name = "Source code"
   url = "https://github.com/PierreMesure/pierre.mesu.re"
+  pre = "github"
   weight = 40
-  [footer.params]
-    icon = "github"
-    showName = true
-    target = "_blank"
+
+[[footer]]
+  name = "RSS"
+  url = "index.xml"
+  pre = "rss"
+  weight = 50
+
+[[footer]]
+  name = "llms.txt"
+  url = "llms.txt"
+  pre = "robot"
+  weight = 60
