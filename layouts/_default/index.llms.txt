@@ -1,38 +1,38 @@
-# {{ .Site.Title }}
-
-This is the website of {{ .Site.Params.Author.name }}. {{ .Site.Params.Author.bio }}
-
-{{ $aboutUrl := "/about" | absURL -}}
+{{- print "# " .Site.Title "\n\n" -}}
+{{- print "This is the website of " .Site.Params.Author.name ". " .Site.Params.Author.bio "\n\n" -}}
+{{- $aboutUrl := "/about" | absURL -}}
 {{- with .Site.GetPage "/about" -}}
   {{- with .OutputFormats.Get "md" -}}
     {{- $aboutUrl = .Permalink -}}
   {{- end -}}
 {{- end -}}
-
-You can find [more information about the author here]({{ $aboutUrl }}).
-
-## Contact details
-{{ range .Site.Params.Author.links -}}
-{{ range $k, $v := . -}}
-- [{{ $k }}]({{ $v }})
-{{ end -}}
-{{ end }}
-## Projects
-{{ range where .Site.RegularPages "Section" "projects" -}}
+{{- print "You can find [more information about the author here](" $aboutUrl ").\n\n" -}}
+{{- print "## Contact details" -}}
+{{- range .Site.Params.Author.links -}}
+{{- range $k, $v := . -}}
+{{- print "\n- [" $k "](" $v ")" -}}
+{{- end -}}
+{{- end -}}
+{{- print "\n\n## Projects" -}}
+{{- range where .Site.RegularPages "Section" "projects" -}}
 {{- $url := .Permalink -}}
 {{- with .OutputFormats.Get "md" -}}{{- $url = .Permalink -}}{{- end -}}
-- [{{ .Title }}]({{ $url }})
-{{ end }}
-## Articles
+{{- $desc := .Params.description | default .Summary -}}
+{{- print "\n- [" .Title "](" $url ")" -}}
+{{- with $desc -}}{{ print ": " ( . | plainify | htmlUnescape ) }}{{ end -}}
+{{- end -}}
+{{- print "\n\n## Articles" -}}
 {{- with .Site.GetPage "section" "posts" -}}
 {{- range $i, $e := .Pages.GroupByDate "2006" -}}
-{{- if $i }}{{ print "\n" }}{{ end }}
-### {{ .Key }}
-{{ range .Pages -}}
+{{- print "\n\n### " .Key -}}
+{{- range .Pages -}}
 {{- $url := .Permalink -}}
 {{- with .OutputFormats.Get "md" -}}{{- $url = .Permalink -}}{{- end -}}
 {{- if .Params.externalUrl -}}{{- $url = .Params.externalUrl -}}{{- end -}}
-- [{{ .Title }}]({{ $url }})
-{{ end -}}
+{{- $desc := .Params.description | default .Summary -}}
+{{- print "\n- [" .Title "](" $url ")" -}}
+{{- with $desc -}}{{ print ": " ( . | plainify | htmlUnescape ) }}{{ end -}}
 {{- end -}}
 {{- end -}}
+{{- end -}}
+{{- print "\n" -}}
