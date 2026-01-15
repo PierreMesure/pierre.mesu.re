@@ -1,0 +1,46 @@
+# {{ .Site.Title }}
+
+This is the website of {{ .Site.Params.Author.name }}. {{ .Site.Params.Author.bio }}
+
+{{- $aboutUrl := "/about" | relURL -}}
+{{- with .Site.GetPage "/about" -}}
+  {{- with .OutputFormats.Get "md" -}}
+    {{- $aboutUrl = .Permalink -}}
+  {{- end -}}
+{{- end -}}
+
+You can find [more information about the author here]({{ $aboutUrl }}).
+
+## Contact details
+
+{{ range .Site.Params.Author.links -}}
+{{ range $k, $v := . -}}
+- [{{ $k }}]({{ $v }})
+{{ end -}}
+{{- end }}
+
+## Projects
+{{ range where .Site.RegularPages "Section" "projects" }}
+{{- $url := .Permalink -}}
+{{- with .OutputFormats.Get "md" -}}
+  {{- $url = .Permalink -}}
+{{- end -}}
+- [{{ .Title }}]({{ $url }})
+{{ end }}
+## Articles
+{{ with .Site.GetPage "section" "posts" -}}
+{{ range .Pages.GroupByDate "2006" }}
+
+### {{ .Key }}
+{{ range .Pages -}}
+{{- $url := .Permalink -}}
+{{- with .OutputFormats.Get "md" -}}
+  {{- $url = .Permalink -}}
+{{- end -}}
+{{- if .Params.externalUrl -}}
+  {{- $url = .Params.externalUrl -}}
+{{- end -}}
+- [{{ .Title }}]({{ $url }})
+{{ end }}
+{{ end -}}
+{{ end }}
