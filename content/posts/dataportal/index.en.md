@@ -28,7 +28,7 @@ This is for example the case of the city of Helsingborg. Their portal, developed
 
 ![It took me about 5 minutes to build this map showing Helsingborg’s public toilets and Wi-Fi hotspots.](helsingborg-map.webp "It took me about 5 minutes to build this map showing Helsingborg’s public toilets and Wi-Fi hotspots.")
 
-These functions would be interesting in Sweden because the government has historically neglected one category of users even more than the others: citizens and civil society organisations. They are usually not data litterate but provide a lot of value to the society in many ways that could benefit from data.
+These functions would be interesting in Sweden because the government has historically neglected one category of users even more than the others: citizens and civil society organisations. They are usually not data literate but provide a lot of value to the society in many ways that could benefit from data.
 
 ## Leveraging on Freedom of information requests (Offentlighetsprincipsbegäran)
 
@@ -60,9 +60,9 @@ In Sweden, Elenor Weijmar and Mattias Axell at Civic Tech Sweden deployed a plat
 
 ![handlingar.se is an easy way for you to request a document, but also a good source of information on what datasets the Swedish government should release soon](handlingar-se.webp "handlingar.se is an easy way for you to request a document, but also a good source of information on what datasets the Swedish government should release soon")
 
-Now you maybe got what I’m getting at. What if the national open data portal enabled you with a few clicks and a simple form to request the data it doesn’t have to the relevant administration? What if the data was added to the list of available datasets as soon as the administration sends it back?
+Now you maybe get what I’m getting at. What if the national open data portal enabled you with a few clicks and a simple form to request the data it doesn’t have to the relevant administration? What if the data was added to the list of available datasets as soon as the administration sends it back?
 
-Better. What if DIGG used information about these requests and could send once in a while, the following message to other agencies:
+Better. What if DIGG used information about these requests and could send, once in a while, the following message to other agencies:
 
 > Dear government agency, we see that you received XXX requests this year regarding xxxxxx.
 >
@@ -103,7 +103,7 @@ People can also link their reuses in a similar way to Trafiklab. Finally, there 
 
 ![Community resources and reuses for the French national postcode dataset](data-gouv-fr.webp "Community resources and reuses for the [French national postcode dataset](https://www.data.gouv.fr/en/datasets/base-officielle-des-codes-postaux/)")
 
-Etalab, the French agency in charge of open data and open innovation, developed its own portal called **udata** to build these functionalities. As everything else they create, it is [open source](https://github.com/opendatateam/udata) and it is used by other countries like [Luxembourg](https://data.public.lu/en/) , [Portugal](https://dados.gov.pt/en/) or [Serbia](https://data.gov.rs/sr).
+Etalab, the French agency in charge of open data and open innovation, developed its own portal called **udata** to build these functionalities. Like everything else they create, it is [open source](https://github.com/opendatateam/udata) and it is used by other countries like [Luxembourg](https://data.public.lu/en/) , [Portugal](https://dados.gov.pt/en/) or [Serbia](https://data.gov.rs/sr).
 
 ## One portal fits all?
 

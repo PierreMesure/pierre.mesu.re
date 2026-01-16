@@ -15,7 +15,7 @@ tags:
 
 ## Learning that Swedish democracy is far from perfect
 
-I came to Sweden in 2016 and as far as I can remember, I have always been fascinated by its democracy. During my first years in Stockholm, I often visited the parliament, sitting above the main chamber and listening to the debates. Swedish parliamentary democracy had something I didn't grow up with: a proportional voting system, high levels of trust, less polarisation, and a great deal of consensus and respect for institutions and processes.
+I came to Sweden in 2016 and as long as I can remember, I have always been fascinated by its democracy. During my first years in Stockholm, I often visited the parliament, sitting above the main chamber and listening to the debates. Swedish parliamentary democracy had something I didn't grow up with: a proportional voting system, high levels of trust, less polarisation, and a great deal of consensus and respect for institutions and processes.
 
 In my home country, distrust and anger were at record highs. But because of that, France was also bubbling with an enormous drive to hold politicians under scrutiny and accountable, and many citizens had a strong will to get involved in the decisions that affected them. To meet this demand, countless innovative projects were started in the 2010s, and institutions were reformed (slightly) to allow these new forms of democracy to have an impact.
 

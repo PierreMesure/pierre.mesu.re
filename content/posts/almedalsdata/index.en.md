@@ -27,7 +27,7 @@ Although the book itself is freely distributed and the [website](https://program
 
 ## Almedalsdata
 
-Almedalsdata is a small civic tech project I worked with on my free time. The first step was to find as much of the programs as I could online. The second was to write a small script to fetch that data and convert it to a structured format.
+Almedalsdata is a small civic tech project I worked on in my free time. The first step was to find as much of the programs as I could online. The second was to write a small script to fetch that data and convert it to a structured format.
 
 The result is available on Github [here](https://github.com/civictechsweden/almedalsdata).
 
@@ -71,7 +71,7 @@ And finally, maybe the one piece of information you couldn’t live without!? Th
 
 ![Proportion of events offering food per year](food-per-year.webp "Proportion of events offering food per year (CC-BY 4.0 Pierre Mesure)")
 
-The amount of events locking people with a free breakfast/fika seems to be steadily decreasing since the beginning of the 2010s. The first pandemic Almedalsveckan reaches a bottom of only 4 events with food in 2021.
+The amount of events attracting people with a free breakfast/fika seems to be steadily decreasing since the beginning of the 2010s. The first pandemic Almedalsveckan reaches a bottom of only 4 events with food in 2021.
 
 ![Wraps that will soon be eaten, Almedalsveckan 2017](free-wraps.webp "Wraps that will soon be eaten, Almedalsveckan 2017 (CC-BY 4.0 Pierre Mesure)")
 

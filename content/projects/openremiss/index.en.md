@@ -27,7 +27,7 @@ Despite many requests from other government bodies, journalists, and researchers
 
 - The list of referral processes must be scraped from HTML pages, alongside metadata about the related public inquiries (*utredningar*).
 - The list of files for each specific process also requires HTML scraping.
-- The list of organisations invited to provide feedback (*remisslista*) is published as a PDF file. Furthermore, every department uses its own template for this list, so standardised extraction is not straight-forward. Organisations are often listed only by name, with a surprising number of typos and variations.
+- The list of organisations invited to provide feedback (*remisslista*) is published as a PDF file. Furthermore, every department uses its own template for this list, so standardised extraction is not straightforward. Organisations are often listed only by name, with a surprising number of typos and variations.
 - The referral responses (*remissvar*) themselves are also PDFs, the format requested by the government. Each organisation uses its own template, making content extraction difficult without losing formatting or context.
 - Feedback submitted by organisations not included in the original *remisslista* is not even published. These must be requested under the Freedom of Information Act and are often provided as physical paper for a fee.
 - Similarly, the government's own analysis of the feedback (*remissammanställning*) is not public, though a brief summary is usually included at the end of the subsequent bill.

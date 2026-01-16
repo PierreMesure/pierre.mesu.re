@@ -12,7 +12,7 @@ tags:
 {{< icon-button "whisper-web.mesu.re" "link" >}} whisper-web.mesu.re {{< /icon-button >}}
 {{< icon-button "github.com/PierreMesure/whisper-web" "github" >}} Source code {{< /icon-button >}}
 
-On Valentine's day of 2025, the Swedish National library's AI lab (KB-labb) released their own fine-tuned version of OpenAI's Whisper models. They retrained the models using thousands of hours of audio from both SVT (the Swedish public service) and parliament debates. Unfortunately, to avoid legal issues and to stay focused on their mission, the lab only provides the [open weights of the models](https://huggingface.co/KBLab/kb-whisper-large).
+On Valentine's day 2025, the Swedish National library's AI lab (KB-labb) released their own fine-tuned version of OpenAI's Whisper models. They retrained the models using thousands of hours of audio from both SVT (the Swedish public service) and parliament debates. Unfortunately, to avoid legal issues and to stay focused on their mission, the lab only provides the [open weights of the models](https://huggingface.co/KBLab/kb-whisper-large).
 
 So I took a few hours to build a web interface to use the models as simply as possible. I called it Whisper-Web.
 
