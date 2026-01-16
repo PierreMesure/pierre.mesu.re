@@ -1,11 +1,13 @@
 ---
-title: "5 years on a democracy journey"
+title: "5 years exploring democracy"
 date: 2023-09-04
 summary: "A short text about my first years in Sweden and my time at Digidem Lab"
 tags:
   - "Citizen participation"
   - "Civic Tech"
 ---
+
+**THIS ARTICLE WAS ORIGINALLY RELEASED ON [LINKEDIN](https://www.linkedin.com/pulse/5-%25C3%25A5r-p%25C3%25A5-en-demokratiresa-pierre-mesure/) (IN SWEDISH).**
 
 ![At a meetup for Biskopsgården's participatory budgeting 2019](featured-medborgarbudget-biskop.jpg "At a meetup for Biskopsgården's participatory budgeting 2019 (CC-BY Digidem Lab)")
 

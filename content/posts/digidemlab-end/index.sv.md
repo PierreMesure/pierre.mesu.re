@@ -7,6 +7,8 @@ tags:
   - "Civic Tech"
 ---
 
+**DETTA INLÄGG PUBLICERADES URSPRUNGLIGEN PÅ [LINKEDIN](https://www.linkedin.com/pulse/5-%25C3%25A5r-p%25C3%25A5-en-demokratiresa-pierre-mesure/).**
+
 ![På en träff för Biskopsgårdens boendebudget 2019](featured-medborgarbudget-biskop.jpg "På en träff för Biskopsgårdens boendebudget 2019 (CC-BY Digidem Lab)")
 
 Den 24e maj fyllde jag 30 år. Det var inget bittert firande. Tvärtom känner jag mig lyckligare varje år som går och på många sätt tryggare i min livsresa. Ungefär samtidigt firade jag även 5 år som officiell medarbetare på Digidem Lab. Jag började egentligen lite tidigare men det var finansieringen vi fick från Vinnova för vårt projekt Demokratiska städer som betalade för min första lön i april 2018.
