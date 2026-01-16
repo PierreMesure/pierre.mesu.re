@@ -4,6 +4,8 @@ description: "More about Pierre Mesure"
 showAuthor: false
 showDate: false
 showReadingTime: false
+showRelatedContent: false
+showPagination: false
 ---
 
 ![Pierre Mesure standing in front of a frozen lake](me_portrait.webp)

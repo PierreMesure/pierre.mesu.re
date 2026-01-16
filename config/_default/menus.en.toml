@@ -48,19 +48,25 @@
   weight = 30
 
 [[footer]]
-  name = "Source code"
-  url = "https://github.com/PierreMesure/pierre.mesu.re"
-  pre = "github"
+  name = "Privacy"
+  pageRef = "privacy"
+  pre = "shield"
   weight = 40
 
 [[footer]]
-  name = "RSS"
-  url = "index.xml"
-  pre = "rss"
+  name = "Source code"
+  url = "https://github.com/PierreMesure/pierre.mesu.re"
+  pre = "github"
   weight = 50
 
 [[footer]]
-  name = "llms.txt"
-  url = "llms.txt"
-  pre = "robot"
+  name = "RSS"
+  url = "/index.xml"
+  pre = "rss"
   weight = 60
+
+[[footer]]
+  name = "llms.txt"
+  url = "/llms.txt"
+  pre = "robot"
+  weight = 70

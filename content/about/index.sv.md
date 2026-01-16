@@ -4,6 +4,8 @@ description: "Mer om Pierre Mesure"
 showAuthor: false
 showDate: false
 showReadingTime: false
+showRelatedContent: false
+showPagination: false
 ---
 
 ![Pierre Mesure vid isen](me_portrait.webp)

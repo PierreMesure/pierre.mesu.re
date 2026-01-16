@@ -44,17 +44,29 @@
 [[footer]]
   name = "CC-BY 4.0 Pierre Mesure"
   url = "https://creativecommons.org/licenses/by/4.0/deed.en"
+  pre = "creative-commons"
   weight = 30
-  [footer.params]
-    icon = "creative-commons"
-    showName = true
-    target = "_blank"
+
+[[footer]]
+  name = "Integritet"
+  pageRef = "privacy"
+  pre = "shield"
+  weight = 40
 
 [[footer]]
   name = "Källkod"
   url = "https://github.com/PierreMesure/pierre.mesu.re"
-  weight = 40
-  [footer.params]
-    icon = "github"
-    showName = true
-    target = "_blank"
+  pre = "github"
+  weight = 50
+
+[[footer]]
+  name = "RSS"
+  pageRef = "index.xml"
+  pre = "rss"
+  weight = 60
+
+[[footer]]
+  name = "llms.txt"
+  pageRef = "llms.txt"
+  pre = "robot"
+  weight = 70
