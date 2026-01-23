@@ -12,15 +12,17 @@ tags:
 Den här texten skrevs med **Anna Fahlgård**, PhD student på House of Innovation, Handelshögskolan i Stockholm.
 {{< /alert >}}
 
+**DETTA INLÄGG PUBLICERADES URSPRUNGLIGEN PÅ [MEDIUM](https://medium.com/civictechsweden/10-tips-before-hackthecrisis-sweden-15799b8785d) (PÅ ENGELSKA).**
+
 Du har precis anmält dig till helgens evenemang HackTheCrisis Sweden? Kanske är det till och med ditt första hackathon? Toppen! Ju fler, desto roligare!
 
 Crowdsourcing kan vara en ovärderlig källa till innovation när rätt typ av folksamling tar sig an rätt typ av problem. Innan du kastar dig ut i det, tänkte vi ge dig några tips och några av våra egna "lärdomar" från att ha deltagit i några hacks om **vad man inte ska göra** för att kunna göra ett bra bidrag i kampen mot viruset och dess konsekvenser.
 
-## 1. Uppfin inte hjulet på nytt
+## 1. Uppfinn inte hjulet på nytt
 
-HackTheCrisis Sweden är bara en av många (**46 hittills!**) andra HackTheCrisis-initiativ i världen och många av dem har redan ägt rum. Detta ger en utmärkt möjlighet att förbättra och kombinera vad som redan har gjorts! Innan du börjar arbeta med din geniala idé, se till att kolla in de andra hackathons projekten, många av dem är på engelska och publicerar sin kod och andra resurser som du kan bygga vidare på!
+HackTheCrisis Sweden är bara ett av många (**46 hittills!**) andra HackTheCrisis-initiativ i världen och många av dem har redan ägt rum. Detta ger en utmärkt möjlighet att förbättra och kombinera vad som redan har gjorts! Innan du börjar arbeta med din geniala idé, se till att kolla in de andra hackathonens projekt, många av dem är på engelska och publicerar sin kod och andra resurser som du kan bygga vidare på!
 
-Kolla till exempel **WirvsVirus**' [1500 projekt](https://wirvsvirushackathon.devpost.com/submissions) eller **HackTheCrisis Finland**'s [230 projekt](https://app.hackjunction.com/projects/hack-the-crisis-finland) och se om du kan bygga vidare på delar av koden och forskningen som redan gjorts där!
+Kolla till exempel **WirvsVirus** [1500 projekt](https://wirvsvirushackathon.devpost.com/submissions) eller **HackTheCrisis Finlands** [230 projekt](https://app.hackjunction.com/projects/hack-the-crisis-finland) och se om du kan bygga vidare på delar av koden och forskningen som redan gjorts där!
 
 ![Alla HackTheCrisis i Europa (se [fullständig lista](http://garage48.org/hackthecrisis/))](hackthecrisis-map.webp "Alla HackTheCrisis i Europa (se fullständig lista)")
 
@@ -60,7 +62,7 @@ Var ödmjuk och var realistisk om problemet du vill lösa. Särskilt följande t
 
 * **Lös inte ett icke-problem**
 
-Lägg huvuddelen av din tid på att identifiera orsaken till ett verkligt problem, snarare än att bygga en lösning för ett trivialt eller utforskat problem.
+Lägg huvuddelen av din tid på att identifiera orsaken till ett verkligt problem, snarare än att bygga en lösning för ett trivialt eller misförstått problem.
 
 * **Försök inte lösa allas problem**
 
@@ -70,7 +72,7 @@ Fokusera på en aspekt som är kopplad till ett problem. Välj sedan den målgru
 
 Använd dina egna erfarenheter och gräv där du står. Ta perspektivet av en förälder, vårdare, barn, familjeföretagare eller varhelst du har verklig livserfarenhet. Detta kommer att förankra din problematisering i en verklighet som rör människors vardag som du har ingående kunskap om.
 
-Ett exempel på en insikt som nyligen förts fram i media är att utsatta kvinnor och barn kommer att lida av isolering tillsammans med förövare, som antingen är fysiskt eller virtuellt närvarande i deras hem. Detta perspektiv förts fram av de som upplever det, och pekar på en aspekt av krisen som till stor del har förbisetts, vilket öppnar upp en lucka för bidrag — vilket unikt perspektiv kan du bidra med?
+Ett exempel på en insikt som nyligen förts fram i media är att utsatta kvinnor och barn kommer att lida av isolering tillsammans med förövare, som antingen är fysiskt eller virtuellt närvarande i deras hem. Detta perspektiv förs fram av de som upplever det, och pekar på en aspekt av krisen som till stor del har förbisetts, vilket öppnar upp en lucka för bidrag — vilket unikt perspektiv kan du bidra med?
 
 ## Okej, så låt oss säga att du har kommit överens om vilket projekt du ska fortsätta med — nu då?
 

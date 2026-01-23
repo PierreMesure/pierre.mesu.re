@@ -12,6 +12,8 @@ tags:
 This text was written with **Anna Fahlgård**, PhD student at House of Innovation, Stockholm School of Economics.
 {{< /alert >}}
 
+**THIS ARTICLE WAS ORIGINALLY RELEASED ON [MEDIUM](https://medium.com/civictechsweden/10-tips-before-hackthecrisis-sweden-15799b8785d).**
+
 You just registered for this weekend's event HackTheCrisis Sweden? Maybe it's even your first hackathon? Great! The more, the merrier!
 
 Crowdsourcing can be an invaluable source of innovation when the right type of crowd tackles the right type of problem. Before you dive right in, we thought we'd give you a few tips and a few of our own "lessons learned" from taking part in a couple of hacks on **what not to do** in order to make a great contribution in the fight against the virus and its aftermath.
@@ -64,7 +66,7 @@ Be humble and be realistic about the problem you want to solve. In particular, t
 
 * **Don't solve a non-problem**
 
-Spend the main part of your time on identifying the root cause of a real-life problem, rather than building a solution for a trivial or underexplored problem.
+Spend the main part of your time on identifying the root cause of a real-life problem, rather than building a solution for a trivial or misunderstood problem.
 
 * **Don't try to solve everyone's problem**
 
