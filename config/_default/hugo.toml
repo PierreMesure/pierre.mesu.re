@@ -17,8 +17,9 @@ buildDrafts = false
 buildFuture = false
 
 enableEmoji = true
+uglyURLs = true
 
-# googleAnalytics = "G-XXXXXXXXX"
+# googleAnalytics = "G-XXXXXXXXX"
 
 [pagination]
   pagerSize = 10
@@ -36,6 +37,10 @@ enableEmoji = true
   changefreq = 'weekly'
   filename = 'sitemap.xml'
   priority = 0.5
+
+[outputFormats.HTML]
+  mediaType = "text/html"
+  noUgly = true
 
 [outputFormats.llms]
   baseName = "llms"
