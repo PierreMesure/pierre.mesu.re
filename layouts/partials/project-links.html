@@ -1,0 +1,7 @@
+{{ with .Params.links }}
+  <div class="not-prose mb-6 flex flex-wrap gap-2">
+    {{ range . }}
+      {{ partial "icon-button.html" (dict "href" .url "icon" .icon "text" .label) }}
+    {{ end }}
+  </div>
+{{ end }}

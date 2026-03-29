@@ -7,9 +7,13 @@ tags:
   - Opengov
   - Open parliament
   - Transparency
+links:
+  - label: Source code
+    url: https://github.com/DinRiksdag/OpenRemiss
+    icon: github
 ---
 
-{{< icon-button "https://github.com/DinRiksdag/OpenRemiss" "github" >}} Source code {{< /icon-button >}}
+{{< project-links >}}
 
 ## What is a "remiss"?
 

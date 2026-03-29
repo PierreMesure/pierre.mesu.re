@@ -7,11 +7,19 @@ tags:
   - COVID
   - OSINT
   - Open Data
+links:
+  - label: jagvillhavaccin.nu
+    url: https://jagvillhavaccin.mesu.re
+    icon: link
+  - label: Källkod (scraper)
+    url: https://github.com/civictechsweden/JagVillHaVaccin
+    icon: github
+  - label: Källkod (webbsida)
+    url: https://github.com/civictechsweden/JagVillHaVaccin-front
+    icon: github
 ---
 
-{{< icon-button "https://jagvillhavaccin.mesu.re" "link" >}} jagvillhavaccin.nu {{< /icon-button >}}
-{{< icon-button "https://github.com/civictechsweden/JagVillHaVaccin" "github" >}} Källkod (scraper) {{< /icon-button >}}
-{{< icon-button "https://github.com/civictechsweden/JagVillHaVaccin-front" "github" >}} Källkod (webbsida) {{< /icon-button >}}
+{{< project-links >}}
 
 ## Att hitta en vaccintid i Sverige
 

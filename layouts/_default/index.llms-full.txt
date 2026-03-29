@@ -1,5 +1,75 @@
-{{ range .Site.RegularPages }}
-# {{ .Title }}
-
-{{ .RawContent }}
+{{- print "# " .Site.Title "\n\n" -}}
+{{- print "This is the website of " .Site.Params.Author.name ". " .Site.Params.Author.bio "\n\n" -}}
+{{- $aboutURL := "/about" | absURL -}}
+{{- with .Site.GetPage "/about" -}}
+  {{- with .OutputFormats.Get "md" -}}
+    {{- $aboutURL = .Permalink -}}
+  {{- end -}}
 {{- end -}}
+{{- print "You can find [more information about the author here](" $aboutURL ").\n\n" -}}
+
+{{- print "## Contact details" -}}
+{{- range .Site.Params.Author.links -}}
+  {{- range $k, $v := . -}}
+{{- print "\n- [" $k "](" $v ")" -}}
+  {{- end -}}
+{{- end -}}
+
+{{- print "\n\n## Projects\n" -}}
+{{- range (where .Site.RegularPages "Section" "projects").ByDate.Reverse -}}
+{{- $url := .Permalink -}}
+{{- with .OutputFormats.Get "md" -}}{{- $url = .Permalink -}}{{- end -}}
+{{- $desc := .Params.description | default .Params.excerpt | default .Summary -}}
+{{- $content := .RawContent -}}
+{{- $content = replaceRE `(?m)^\{\{<\s*project-links\s*>\}\}\n?` `` $content -}}
+{{- $content = replaceRE `(?m)^### ` `###### ` $content -}}
+{{- $content = replaceRE `(?m)^## ` `##### ` $content -}}
+{{- $content = replaceRE `(?m)^# ` `#### ` $content -}}
+
+{{ print "\n### " .Title "\n\n" -}}
+{{- print "- Type: Project\n" -}}
+{{- with .Date -}}{{ print "- Date: " (.Format "2006-01-02") "\n" }}{{- end -}}
+{{- print "- URL: " $url "\n" -}}
+{{- with $desc -}}{{ print "- Summary: " ( . | plainify | htmlUnescape ) "\n" }}{{- end -}}
+{{- with .Params.tags -}}{{ print "- Tags: " (delimit . ", ") "\n" }}{{- end -}}
+{{- with .Params.links -}}
+{{- print "- Links:\n" -}}
+{{- range . -}}{{ print "  - " .label ": " .url "\n" }}{{- end -}}
+{{- end -}}
+{{- print "\nContent:\n\n" -}}
+{{- $content -}}
+{{- print "\n---\n" -}}
+{{- end -}}
+
+{{- print "\n## Articles" -}}
+{{- with .Site.GetPage "section" "posts" -}}
+  {{- range .Pages.GroupByDate "2006" -}}
+{{- print "\n\n### " .Key -}}
+    {{- range .Pages.ByDate.Reverse -}}
+{{- $url := .Permalink -}}
+{{- with .OutputFormats.Get "md" -}}{{- $url = .Permalink -}}{{- end -}}
+{{- if .Params.externalUrl -}}{{- $url = .Params.externalUrl -}}{{- end -}}
+{{- $desc := .Params.description | default .Params.excerpt | default .Summary -}}
+{{- $content := .RawContent -}}
+{{- $content = replaceRE `(?m)^\{\{<\s*project-links\s*>\}\}\n?` `` $content -}}
+{{- $content = replaceRE `(?m)^### ` `###### ` $content -}}
+{{- $content = replaceRE `(?m)^## ` `##### ` $content -}}
+{{- $content = replaceRE `(?m)^# ` `#### ` $content -}}
+
+{{ print "\n\n#### " .Title "\n\n" -}}
+{{- print "- Type: Article\n" -}}
+{{- with .Date -}}{{ print "- Date: " (.Format "2006-01-02") "\n" }}{{- end -}}
+{{- print "- URL: " $url "\n" -}}
+{{- with $desc -}}{{ print "- Summary: " ( . | plainify | htmlUnescape ) "\n" }}{{- end -}}
+{{- with .Params.tags -}}{{ print "- Tags: " (delimit . ", ") "\n" }}{{- end -}}
+{{- with .Params.links -}}
+{{- print "- Links:\n" -}}
+{{- range . -}}{{ print "  - " .label ": " .url "\n" }}{{- end -}}
+{{- end -}}
+{{- print "\nContent:\n\n" -}}
+{{- $content -}}
+{{- print "\n\n---" -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- print "\n" -}}

@@ -7,11 +7,19 @@ tags:
   - open parliament
   - citizen participation
   - transparency
+links:
+  - label: Source code (platform)
+    url: https://github.com/DinRiksdag/dinriksdag
+    icon: github
+  - label: Source code (scraping module)
+    url: https://github.com/DinRiksdag/decidim-module-riksdagen
+    icon: github
+  - label: Presentations
+    url: https://github.com/PierreMesure/pierre.mesu.re/tree/master/static/dinriksdag/presentations
+    icon: link
 ---
 
-{{< icon-button "https://github.com/DinRiksdag/dinriksdag" "github" >}} Source code (platform) {{< /icon-button >}}
-{{< icon-button "https://github.com/DinRiksdag/decidim-module-riksdagen" "github" >}} Source code (scraping module) {{< /icon-button >}}
-{{< icon-button "https://github.com/PierreMesure/pierre.mesu.re/tree/master/static/dinriksdag/presentations" "link" >}} Presentations {{< /icon-button >}}
+{{< project-links >}}
 
 ## Learning that Swedish democracy is far from perfect
 

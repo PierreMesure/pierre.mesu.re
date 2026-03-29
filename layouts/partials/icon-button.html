@@ -1,7 +1,4 @@
 {{ $href := .href }}
-{{ if and $href (not (findRE "^(http|https|/|#|mailto|tel):" $href)) }}
-  {{ $href = printf "https://%s" $href }}
-{{ end }}
 {{ $target := .target | default "_blank" }}
 {{ $iconName := .icon }}
 {{ $text := .text }}
@@ -14,12 +11,10 @@
  {{ if $iconName }}
    {{ $icon := resources.Get (printf "icons/%s.svg" $iconName) }}
    {{ if $icon }}
-     <span class="relative inline-block align-text-bottom icon">
+     <span class="relative mr-1 inline-block align-text-bottom icon">
      {{ strings.Replace $icon.Content "\n" "" | safeHTML }}
      </span>
    {{ end }}
  {{ end }}
  {{ $text | safeHTML }}
 </a>
-
-

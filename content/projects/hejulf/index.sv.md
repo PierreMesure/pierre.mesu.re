@@ -6,13 +6,25 @@ date: 2022-09-30
 tags:
   - GDPR
   - OSINT
+links:
+  - label: Ursprungliga inlägg (webperf.se)
+    url: https://webperf.se/articles/hej-ulf/
+    icon: pencil
+  - label: hejulf.se
+    url: https://hejulf.mesu.re
+    icon: link
+  - label: Klågomål till IMY
+    url: https://hejulf.mesu.re/beskrivning-klagomal.pdf
+    icon: pencil
+  - label: Webbsida (källkod)
+    url: https://github.com/PierreMesure/hejulf.se
+    icon: github
+  - label: Scraper (källkod)
+    url: https://github.com/PierreMesure/hej-ulf
+    icon: github
 ---
 
-{{< icon-button "https://webperf.se/articles/hej-ulf/" "pencil" >}} Ursprungliga inlägg (webperf.se) {{< /icon-button >}}
-{{< icon-button "https://hejulf.mesu.re" "link" >}} hejulf.se {{< /icon-button >}}
-{{< icon-button "https://hejulf.mesu.re/beskrivning-klagomal.pdf" "pencil" >}} Klågomål till IMY {{< /icon-button >}}
-{{< icon-button "https://github.com/PierreMesure/hejulf.se" "github" >}} Webbsida (källkod) {{< /icon-button >}}
-{{< icon-button "https://github.com/PierreMesure/hej-ulf" "github" >}} Scraper (källkod) {{< /icon-button >}}
+{{< project-links >}}
 
 ## Hej Pierre
 

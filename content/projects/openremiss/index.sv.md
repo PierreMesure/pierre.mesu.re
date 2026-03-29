@@ -7,9 +7,13 @@ tags:
   - Opengov
   - Open parliament
   - Transparency
+links:
+  - label: Källkod
+    url: https://github.com/DinRiksdag/OpenRemiss
+    icon: github
 ---
 
-{{< icon-button "https://github.com/DinRiksdag/OpenRemiss" "github" >}} Källkod {{< /icon-button >}}
+{{< project-links >}}
 
 ## Vad är en "remiss"?
 

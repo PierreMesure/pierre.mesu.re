@@ -7,10 +7,16 @@ tags:
   - AI
   - Integritet
   - Öppen källkod
+links:
+  - label: whisper-web.mesu.re
+    url: https://whisper-web.mesu.re
+    icon: link
+  - label: Källkod
+    url: https://github.com/PierreMesure/whisper-web
+    icon: github
 ---
 
-{{< icon-button "https://whisper-web.mesu.re" "link" >}} whisper-web.mesu.re {{< /icon-button >}}
-{{< icon-button "https://github.com/PierreMesure/whisper-web" "github" >}} Källkod {{< /icon-button >}}
+{{< project-links >}}
 
 På alla hjärtans dag 2025 släppte KB-labb vid Kungliga biblioteket sin egen finjusterade version av OpenAI:s Whisper-modeller. De tränade om modellerna med tusentals timmar av ljud från både SVT och riksdagsdebatter. Tyvärr, för att undvika juridiska problem och för att hålla fokus på sitt uppdrag, tillhandahåller labbet endast [modellernas öppna vikter](https://huggingface.co/KBLab/kb-whisper-large).
 

@@ -7,11 +7,19 @@ tags:
   - Open Parliament
   - Citizen participation
   - Transparency
+links:
+  - label: Källkod (plattform)
+    url: https://github.com/DinRiksdag/dinriksdag
+    icon: github
+  - label: Källkod (skrapningsmodul)
+    url: https://github.com/DinRiksdag/decidim-module-riksdagen
+    icon: github
+  - label: Presentationer
+    url: https://github.com/PierreMesure/pierre.mesu.re/tree/master/static/dinriksdag/presentations
+    icon: link
 ---
 
-{{< icon-button "https://github.com/DinRiksdag/dinriksdag" "github" >}} Källkod (plattform) {{< /icon-button >}}
-{{< icon-button "https://github.com/DinRiksdag/decidim-module-riksdagen" "github" >}} Källkod (skrapningsmodul) {{< /icon-button >}}
-{{< icon-button "https://github.com/PierreMesure/pierre.mesu.re/tree/master/static/dinriksdag/presentations" "link" >}} Presentationer {{< /icon-button >}}
+{{< project-links >}}
 
 ## Insikten om att den svenska demokratin inte är perfekt
 

@@ -7,11 +7,19 @@ tags:
   - COVID
   - OSINT
   - Open Data
+links:
+  - label: jagvillhavaccin.nu
+    url: https://jagvillhavaccin.mesu.re
+    icon: link
+  - label: Source code (scraper)
+    url: https://github.com/civictechsweden/JagVillHaVaccin
+    icon: github
+  - label: Source code (frontend)
+    url: https://github.com/civictechsweden/JagVillHaVaccin-front
+    icon: github
 ---
 
-{{< icon-button "https://jagvillhavaccin.mesu.re" "link" >}} jagvillhavaccin.nu {{< /icon-button >}}
-{{< icon-button "https://github.com/civictechsweden/JagVillHaVaccin" "github" >}} Source code (scraper) {{< /icon-button >}}
-{{< icon-button "https://github.com/civictechsweden/JagVillHaVaccin-front" "github" >}} Source code (frontend) {{< /icon-button >}}
+{{< project-links >}}
 
 ## Finding a vaccine time in Sweden
 

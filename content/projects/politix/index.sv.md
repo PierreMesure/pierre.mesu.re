@@ -7,10 +7,16 @@ tags:
   - Social Media
   - Open Data
   - OSINT
+links:
+  - label: PolitiX
+    url: https://politix.mesu.re
+    icon: link
+  - label: Källkod
+    url: https://github.com/PierreMesure/politix-sweden
+    icon: github
 ---
 
-{{< icon-button "https://politix.mesu.re" "link" >}} PolitiX {{< /icon-button >}}
-{{< icon-button "https://github.com/PierreMesure/politix-sweden" "github" >}} Källkod {{< /icon-button >}}
+{{< project-links >}}
 
 ## X/Twitter har blivit en fara för vår demokrati
 

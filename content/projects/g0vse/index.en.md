@@ -7,11 +7,19 @@ tags:
   - Open data
   - Opengov
   - Scraping
+links:
+  - label: g0v.se
+    url: https://g0v.se
+    icon: link
+  - label: Source code
+    url: https://github.com/civictechsweden/g0vse
+    icon: github
+  - label: Data
+    url: https://github.com/civictechsweden/g0vse/tree/data
+    icon: github
 ---
 
-{{< icon-button "https://g0v.se" "link" >}} g0v.se {{< /icon-button >}}
-{{< icon-button "https://github.com/civictechsweden/g0vse" "github" >}} Source code {{< /icon-button >}}
-{{< icon-button "https://github.com/civictechsweden/g0vse/tree/data" "github" >}} Data {{< /icon-button >}}
+{{< project-links >}}
 
 ![Logo of g0v.se](g0vse.webp "The project's logo is inspired by the Swedish three crowns but they have been replaced by sunflowers to honour the Taiwanese sunflower movement that started the g0v philosophy")
 
