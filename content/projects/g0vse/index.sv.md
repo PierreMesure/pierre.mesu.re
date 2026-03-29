@@ -9,9 +9,9 @@ tags:
   - Scraping
 ---
 
-{{< icon-button "g0v.se" "link" >}} g0v.se {{< /icon-button >}}
-{{< icon-button "github.com/civictechsweden/g0vse" "github" >}} Källkod {{< /icon-button >}}
-{{< icon-button "github.com/civictechsweden/g0vse/tree/data" "github" >}} Data {{< /icon-button >}}
+{{< icon-button "https://g0v.se" "link" >}} g0v.se {{< /icon-button >}}
+{{< icon-button "https://github.com/civictechsweden/g0vse" "github" >}} Källkod {{< /icon-button >}}
+{{< icon-button "https://github.com/civictechsweden/g0vse/tree/data" "github" >}} Data {{< /icon-button >}}
 
 ![Logotyp för g0v.se](g0vse.webp "Projektets logotyp är inspirerad av Tre Kronor men de har ersatts av solrosor för att hedra den taiwanesiska Solrosrörelsen som startade g0v-filosofin")
 

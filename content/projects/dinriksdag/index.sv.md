@@ -9,9 +9,9 @@ tags:
   - Transparency
 ---
 
-{{< icon-button "github.com/DinRiksdag/dinriksdag" "github" >}} Källkod (plattform) {{< /icon-button >}}
-{{< icon-button "github.com/DinRiksdag/decidim-module-riksdagen" "github" >}} Källkod (skrapningsmodul) {{< /icon-button >}}
-{{< icon-button "github.com/PierreMesure/pierre.mesu.re/tree/master/static/dinriksdag/presentations" "link" >}} Presentationer {{< /icon-button >}}
+{{< icon-button "https://github.com/DinRiksdag/dinriksdag" "github" >}} Källkod (plattform) {{< /icon-button >}}
+{{< icon-button "https://github.com/DinRiksdag/decidim-module-riksdagen" "github" >}} Källkod (skrapningsmodul) {{< /icon-button >}}
+{{< icon-button "https://github.com/PierreMesure/pierre.mesu.re/tree/master/static/dinriksdag/presentations" "link" >}} Presentationer {{< /icon-button >}}
 
 ## Insikten om att den svenska demokratin inte är perfekt
 

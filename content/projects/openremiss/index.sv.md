@@ -9,7 +9,7 @@ tags:
   - Transparency
 ---
 
-{{< icon-button "github.com/DinRiksdag/OpenRemiss" "github" >}} Källkod {{< /icon-button >}}
+{{< icon-button "https://github.com/DinRiksdag/OpenRemiss" "github" >}} Källkod {{< /icon-button >}}
 
 ## Vad är en "remiss"?
 

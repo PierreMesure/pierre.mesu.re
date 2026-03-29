@@ -8,11 +8,11 @@ tags:
   - OSINT
 ---
 
-{{< icon-button "webperf.se/articles/hej-ulf/" "pencil" >}} Ursprungliga inlägg (webperf.se) {{< /icon-button >}}
-{{< icon-button "hejulf.mesu.re" "link" >}} hejulf.se {{< /icon-button >}}
-{{< icon-button "hejulf.mesu.re/beskrivning-klagomal.pdf" "pencil" >}} Klågomål till IMY {{< /icon-button >}}
-{{< icon-button "github.com/PierreMesure/hejulf.se" "github" >}} Webbsida (källkod) {{< /icon-button >}}
-{{< icon-button "github.com/PierreMesure/hej-ulf" "github" >}} Scraper (källkod) {{< /icon-button >}}
+{{< icon-button "https://webperf.se/articles/hej-ulf/" "pencil" >}} Ursprungliga inlägg (webperf.se) {{< /icon-button >}}
+{{< icon-button "https://hejulf.mesu.re" "link" >}} hejulf.se {{< /icon-button >}}
+{{< icon-button "https://hejulf.mesu.re/beskrivning-klagomal.pdf" "pencil" >}} Klågomål till IMY {{< /icon-button >}}
+{{< icon-button "https://github.com/PierreMesure/hejulf.se" "github" >}} Webbsida (källkod) {{< /icon-button >}}
+{{< icon-button "https://github.com/PierreMesure/hej-ulf" "github" >}} Scraper (källkod) {{< /icon-button >}}
 
 ## Hej Pierre
 

@@ -9,9 +9,9 @@ tags:
   - Open Data
 ---
 
-{{< icon-button "jagvillhavaccin.mesu.re" "link" >}} jagvillhavaccin.nu {{< /icon-button >}}
-{{< icon-button "github.com/civictechsweden/JagVillHaVaccin" "github" >}} Source code (scraper) {{< /icon-button >}}
-{{< icon-button "github.com/civictechsweden/JagVillHaVaccin-front" "github" >}} Source code (frontend) {{< /icon-button >}}
+{{< icon-button "https://jagvillhavaccin.mesu.re" "link" >}} jagvillhavaccin.nu {{< /icon-button >}}
+{{< icon-button "https://github.com/civictechsweden/JagVillHaVaccin" "github" >}} Source code (scraper) {{< /icon-button >}}
+{{< icon-button "https://github.com/civictechsweden/JagVillHaVaccin-front" "github" >}} Source code (frontend) {{< /icon-button >}}
 
 ## Finding a vaccine time in Sweden
 
