@@ -1,6 +1,6 @@
 disabled = false
-languageCode = "sv"
-languageName = "svenska"
+locale = "sv"
+label = "svenska"
 weight = 2
 title = "Pierre Mesure | Tech for democracy"
 
