@@ -135,6 +135,11 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   cardView = false
   cardViewScreenWidth = false
 
+[languageRedirect]
+  enabled = true
+  browserRedirectHomeOnly = true
+  storedLanguageRedirect = false
+
 [firebase]
   # apiKey = "XXXXXX"
   # authDomain = "XXXXXX"
