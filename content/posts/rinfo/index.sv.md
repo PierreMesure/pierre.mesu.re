@@ -12,7 +12,7 @@ tags:
 
 Det är en hård princip, men den bygger på en rimlig förutsättning: den som vill följa lagen måste också ha möjlighet att ta reda på vad den säger. [Högsta domstolen har uttryckt det tydligt](https://www.domstol.se/globalassets/filer/domstol/hogstadomstolen/avgoranden/2019/b-6130-18.pdf): om människor förutsätts känna till vad som är straffbart måste de också kunna ta del av regleringen.
 
-![Svensk författningssamling i tryckt format på Riksdagsbiblioteket](sfs_riksdagsbiblioteket.jpeg "Svensk författningssamling i tryckt format på Riksdagsbiblioteket (CC-BY 4.0 Pierre Mesure)")
+![Svensk författningssamling i tryckt format på Riksdagsbiblioteket](thumbnail.jpeg "Svensk författningssamling i tryckt format på Riksdagsbiblioteket (CC-BY 4.0 Pierre Mesure)")
 
 I dag betyder tillgång till lagen inte längre tillgång till en tryckt lagbok. Nästan all åtkomst är digital. Dessutom är det allt oftare inte en människa som först läser rättsinformationen, utan ett informationssystem, en algoritm eller en AI-agent.
 
@@ -40,13 +40,13 @@ Ett annat sätt att jämföra oss internationellt är att se på EU-samarbetet [
 
 Sverige har inget fungerande offentligt rättsinformationssystem värdigt namnet. Vi har en förordning som säger att ett sådant system ska finnas, ett hundratal aktörer som ansvarar för olika fragment och en central webbplats som huvudsakligen länkar vidare till dem.
 
-[Rättsinformationsförordningen](https://rkrattsbaser.gov.se/sfst?bet=1999:175) antogs 1999. Det var för sin tid en ambitiös text som skulle ha gjort Sverige till ett föregångarland med bra förutsättningar för att producera och tillgängliggöra digital rättsinformation. Men det blev [lagrummet.se](https://www.lagrummet.se), en samling av länkar och ett kollektivt misslyckande. 25 år senare innehåller webbplatsen fortfarande inte själva rättsinformationen och erbjuder inget gemensamt API.
+[Rättsinformationsförordningen](https://rkrattsbaser.gov.se/sfst?bet=1999:175) antogs 1999. Det var för sin tid en ambitiös text som skulle ha gjort Sverige till ett föregångarland med bra förutsättningar för att producera och tillgängliggöra digital rättsinformation. Men det blev [lagrummet.se](https://www.lagrummet.se), en samling av länkar och ett kollektivt misslyckande. 27 år senare innehåller webbplatsen fortfarande inte själva rättsinformationen och erbjuder inget gemensamt API.
 
-Det är inte bara min bedömning att systemet har misslyckats. I sin egen [redovisning av rättsinformationssystemet](https://www.domstol.se/globalassets/filer/gemensamt-innehall/rapporter/redovisning_en-saker-och-effektiv-tillgang-till-rattsinformation.pdf) från 2025 skriver Domstolsverket att dagens lösning "inte i något avseende" lever upp till de behov som myndigheten har identifierat. Rapporten konstaterar också att rättskällorna publiceras på många olika sätt, utan gemensamma metadata och ibland utan ens maskinläsbar uppmärkning av rubriker och ingresser.
+I sin egen [redovisning av rättsinformationssystemet](https://www.domstol.se/globalassets/filer/gemensamt-innehall/rapporter/redovisning_en-saker-och-effektiv-tillgang-till-rattsinformation.pdf) från 2025 skriver Domstolsverket att dagens lösning "inte i något avseende" lever upp till de behov som myndigheten har identifierat. Rapporten konstaterar också att rättskällorna publiceras på många olika sätt, utan gemensamma metadata och ibland utan ens maskinläsbar uppmärkning av rubriker och ingresser.
 
 Detta misslyckande kostar oss dyrt, sannolikt hundratals miljoner kronor. Men det försämrar också vår gemensamma demokrati, tilliten i vår offentlig förvaltning och det hindrar innovation och transparens.
 
-Regeringskansliet producerar en stor del av den information som resten av systemet behöver: den svensk författningssamlingen, utredningar, departementspromemorior, propositioner, remisser och annat material från lagstiftningsprocessen. Trots det, och trots att myndigheten själv har stora problem med att återanvända sin egen data... trots det finns inte början av ett sammanhållet öppet API till materialet.
+Regeringskansliet producerar en stor del av den information som resten av systemet behöver: den svensk författningssamlingen, utredningar, departementspromemorior, propositioner, remisser och mycket annat som tusentals personer laddar ner och läser varje dag. Trots det, och trots att myndigheten själv har stora problem med att återanvända sin egen data... trots det finns inte början av ett sammanhållet öppet API till materialet.
 
 Riksdagen har i omkring femton år publicerat omfattande öppna data, mycket tack vare ett antal eldsjälar. Där kan man även hitta propositioner, skrivelser och utredningar som ursprungligen kommer från regeringen. Deras arbete förtjänar beröm, men det är ett orimligt ansvar de har fått utan tydligt mandat, och det blir aldrig möjligt att uppnå tillfredställande datakvalitet när Riksdagsförvaltningen måste bearbeta gammaldags dokument som aldrig förväntas tillgängliggöras på ett annat sätt än som PDF-filer på regeringen.se
 
@@ -88,4 +88,4 @@ Dokumentationen är öppen och ofullständig. Jag har arbetat med vissa delar av
 
 På kort sikt kan Lagdata sänka tröskeln för att använda den rättsinformation som faktiskt finns. På längre sikt hoppas jag fortfarande att staten (och i synnerhet Regeringskansliet) tar sitt ansvar för att lagar och andra rättskällor publiceras som den kritiska digitala infrastruktur som de redan utgör.
 
-Den dag det fungerar har Lagdata blivit överflödigt.
+Den dag det fungerar har Lagdata blivit överflödigt och jag väldigt glad.
