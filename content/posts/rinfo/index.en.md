@@ -12,7 +12,7 @@ tags:
 
 It is a harsh principle, but it rests on a reasonable premise: anyone who wants to obey the law must also be able to find out what it says. [The Supreme Court of Sweden has put it clearly](https://www.domstol.se/globalassets/filer/domstol/hogstadomstolen/avgoranden/2019/b-6130-18.pdf): if people are expected to know what constitutes a criminal offence, they must also be able to access the rules.
 
-![The Swedish Code of Statutes in print at the Riksdag Library](thumbnail.jpeg "The Swedish Code of Statutes in print at the Riksdag Library (CC BY 4.0 Pierre Mesure)")
+![The Swedish Code of Statutes in print at the Riksdag Library](featured-sfs-riksdagsbiblioteket.webp "The Swedish Code of Statutes in print at the Riksdag Library (CC BY 4.0 Pierre Mesure)")
 
 Today, access to the law no longer means access to a printed statute book. Nearly all access is digital. On top of that, legal information is increasingly read and used by information systems, algorithms or AI-agents.
 
@@ -30,11 +30,11 @@ They often ask the same questions: Where can the information be found? Is there 
 
 Other countries have solved this many years ago. The French project [OpenFisca](https://openfisca.org/) turns large parts of the tax and benefits system into executable, open-source code. The project shows what becomes possible when rules are treated as shared digital infrastructure (*rules as code*), rather than as documents that every organisation must interpret from scratch.
 
-![Screenshot of the French government's “1 jeune 1 solution” website](openfisca.png "Thanks to rules as code, this website promises to show in five minutes whether you meet the eligibility criteria for 1,000 benefits, and to apply for some of them automatically ([link](https://mes-aides.1jeune1solution.beta.gouv.fr)).")
+![Screenshot of the French government's “1 jeune 1 solution” website](openfisca.webp "Thanks to rules as code, this website promises to show in five minutes whether you meet the eligibility criteria for 1,000 benefits, and to apply for some of them automatically ([link](https://mes-aides.1jeune1solution.beta.gouv.fr)).")
 
 Another way to compare Sweden internationally is to look at the EU initiative [European Legislation Identifier (ELI)](https://eur-lex.europa.eu/eli-register/what_is_eli.html). Sweden finally joined in 2024, but we have yet to start publishing data because we lack the necessary data infrastructure. Denmark, [Finland](https://eur-lex.europa.eu/eli-register/finland.html) and [Norway](https://eur-lex.europa.eu/eli-register/norway.html) already use ELI to give legal information persistent identifiers and structured metadata.
 
-![Countries implementing ELI; Sweden is one of the few EU countries that does not](eli.png "Source: [EUR-Lex](https://eur-lex.europa.eu/eli-register/implementing_countries.html)")
+![Countries implementing ELI; Sweden is one of the few EU countries that does not](eli.webp "Source: [EUR-Lex](https://eur-lex.europa.eu/eli-register/implementing_countries.html)")
 
 ## A legal information system made up mostly of links
 
@@ -54,7 +54,7 @@ For over fifteen years, the Riksdag has published extensive open data, largely t
 
 The worst part is that we know what needs to be done. Around 2010, the Swedish National Courts Administration (*Domstolsverket*) already ran the Rinfo project to create a modern legal information system. The project developed common URIs, a document model and RDF-based metadata. The authority even recruited Staffan Malmgren, who created [lagen.nu](https://lagen.nu) and has long been one of Sweden's foremost experts on digital legal information.
 
-![A slide from the Rinfo project showing screenshots of public authorities’ regulatory pages](rinfo_slide.png "Source: [Swedish National Courts Administration](https://www.slideshare.net/slideshow/rttsinformationssystemet/5903008)")
+![A slide from the Rinfo project showing screenshots of public authorities’ regulatory pages](rinfo_slide.webp "Source: [Swedish National Courts Administration](https://www.slideshare.net/slideshow/rttsinformationssystemet/5903008)")
 
 But the project remained an impressive prototype, and the decisions needed for broad implementation never came.
 

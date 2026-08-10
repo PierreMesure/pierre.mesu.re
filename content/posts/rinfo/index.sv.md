@@ -12,7 +12,7 @@ tags:
 
 Det är en hård princip, men den bygger på en rimlig förutsättning: den som vill följa lagen måste också ha möjlighet att ta reda på vad den säger. [Högsta domstolen har uttryckt det tydligt](https://www.domstol.se/globalassets/filer/domstol/hogstadomstolen/avgoranden/2019/b-6130-18.pdf): om människor förutsätts känna till vad som är straffbart måste de också kunna ta del av regleringen.
 
-![Svensk författningssamling i tryckt format på Riksdagsbiblioteket](thumbnail.jpeg "Svensk författningssamling i tryckt format på Riksdagsbiblioteket (CC-BY 4.0 Pierre Mesure)")
+![Svensk författningssamling i tryckt format på Riksdagsbiblioteket](featured-sfs-riksdagsbiblioteket.webp "Svensk författningssamling i tryckt format på Riksdagsbiblioteket (CC-BY 4.0 Pierre Mesure)")
 
 I dag betyder tillgång till lagen inte längre tillgång till en tryckt lagbok. Nästan all åtkomst är digital. Dessutom är det allt oftare inte en människa som först läser rättsinformationen, utan ett informationssystem, en algoritm eller en AI-agent.
 
@@ -30,11 +30,11 @@ De frågar ofta om samma sak: Var finns informationen? Finns det ett API? Går d
 
 I andra länder har man gått betydligt längre. Det franska projektet [OpenFisca](https://openfisca.org/) gör stora delar av skatte- och bidragssystemet till körbar, öppen kod. Projektet visar vad som blir möjligt när regler behandlas som gemensam digital infrastruktur (*rules as code*) i stället för som dokument som varje aktör måste tolka på nytt.
 
-![Skärmdump av franska regeringens webbsida "1 jeune 1 solution"](openfisca.png "Tack vare regler som kod lovar denna webbsida att visa om man uppfyller kriterierna för 1000 bidrag på 5 minuter, och att kunna söka vissa automatiskt ([länk](https://mes-aides.1jeune1solution.beta.gouv.fr)).")
+![Skärmdump av franska regeringens webbsida "1 jeune 1 solution"](openfisca.webp "Tack vare regler som kod lovar denna webbsida att visa om man uppfyller kriterierna för 1000 bidrag på 5 minuter, och att kunna söka vissa automatiskt ([länk](https://mes-aides.1jeune1solution.beta.gouv.fr)).")
 
 Ett annat sätt att jämföra oss internationellt är att se på EU-samarbetet [European Legislation Identifier, ELI](https://eur-lex.europa.eu/eli-register/what_is_eli.html) Sverige anslöt sig äntligen 2024 men vi har fortfarande inte börjat publicerar data eftersom vi saknar datainfrastrukturen för det. Danmark, [Finland](https://eur-lex.europa.eu/eli-register/finland.html) och [Norge](https://eur-lex.europa.eu/eli-register/norway.html) använder redan ELI för att ge rättsinformation beständiga identifierare och strukturerade metadata.
 
-![Länder som implementerar ELI, Sverige är ett av få EU-länder som inte gör det](eli.png "Källa: [EUR-lex](https://eur-lex.europa.eu/eli-register/implementing_countries.html)")
+![Länder som implementerar ELI, Sverige är ett av få EU-länder som inte gör det](eli.webp "Källa: [EUR-lex](https://eur-lex.europa.eu/eli-register/implementing_countries.html)")
 
 ## Ett rättsinformationssystem som mest består av länkar
 
@@ -54,7 +54,7 @@ Riksdagen har i omkring femton år publicerat omfattande öppna data, mycket tac
 
 Det saknas inte kunskap om hur problemet kan lösas. Omkring 2010 drev Domstolsverket Rinfo-projektet för att skapa ett modernt rättsinformationssystem. Projektet tog fram gemensamma URI:er, en dokumentmodell och RDF-baserade metadata. Myndigheten rekryterade till och med Staffan Malmgren, som skapade [lagen.nu](https://lagen.nu) och länge varit en av Sveriges mest kunniga personer inom digital rättsinformation.
 
-![En slide från Rinfo-projektet med skärmdumpar från myndigheters föreskriftssidor](rinfo_slide.png "Källa: [Domstolsverket](https://www.slideshare.net/slideshow/rttsinformationssystemet/5903008)")
+![En slide från Rinfo-projektet med skärmdumpar från myndigheters föreskriftssidor](rinfo_slide.webp "Källa: [Domstolsverket](https://www.slideshare.net/slideshow/rttsinformationssystemet/5903008)")
 
 Men projektet blev som mest en fin prototyp och beslutet saknades för att implementera det brett.
 
