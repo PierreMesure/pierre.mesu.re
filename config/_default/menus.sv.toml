@@ -61,12 +61,12 @@
 
 [[footer]]
   name = "RSS"
-  pageRef = "index.xml"
+  url = "/sv/index.xml"
   pre = "rss"
   weight = 60
 
 [[footer]]
   name = "llms.txt"
-  pageRef = "llms.txt"
+  url = "/sv/llms.txt"
   pre = "robot"
   weight = 70
