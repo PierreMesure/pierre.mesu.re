@@ -67,6 +67,6 @@
 
 [[footer]]
   name = "llms.txt"
-  url = "/sv/llms.txt"
+  url = "/llms.txt"
   pre = "robot"
   weight = 70

@@ -57,7 +57,7 @@ uglyURLs = true
   isPlainText = true
 
 [outputs]
-  home = ["HTML", "RSS", "JSON", "llms", "llms-full", "md"]
+  home = ["HTML", "RSS", "JSON", "md"]
   page = ["HTML", "md"]
 
 [related]
