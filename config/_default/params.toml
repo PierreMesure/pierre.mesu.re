@@ -138,7 +138,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 [languageRedirect]
   enabled = true
   browserRedirectHomeOnly = true
-  storedLanguageRedirect = false
+  # Honor explicit language selections before using the browser's language.
+  storedLanguageRedirect = true
 
 [firebase]
   # apiKey = "XXXXXX"
